@@ -1,0 +1,2613 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<TEI.2>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LES RIVAUX AMIS, TRAGI-COM�DIE</title>
+			<author born="1589" born_location="Caen" death="1662" death_location="Paris" academie="">BOISROBERT, Fran�ois Le M�tel de </author>
+			</titleStmt>
+			<publicationStmp>
+				<publisher>publi� par Paul FIEVRE, Janvier 2014</publisher>
+				<editor>Texte �tabli pour le M�moire de Ma�trise par Guillaume Robert et par dirig� par Georges Forestier, Paris, 1997.</editor>
+			</publicationStmp>
+			<SourceDesc>
+				<genre>Tragi-com�die</genre>
+				<inspiration>moeurs fran�aises</inspiration>
+				<type>prose</type>
+				<structure>Cinq actes</structure>
+				<periode>1661-1670</periode>
+				<taille>1750-2000</taille>
+				<permalien></permalien>
+				<encodage>toto</encodage>
+			</SourceDesc>
+		</fileDesc>
+</teiHeader>
+<text>
+	<front>
+		<docTitle>
+			<titlePart type="main">LES RIVAUX AMIS</titlePart>
+			<titlePart type="sub">TRAGI-COM�DIE</titlePart>
+		</docTitle>
+		<docDate value="1668">M. DC. LXVIII. AVEC PRIVIL�GE DU ROI.</docDate>
+		<docAuthor id="BOISROBERT, Fran�ois Le M�tel de" bio="boisrobert"></docAuthor>
+		<docImprint>
+			<privilege id="1668-09-30"><head>PRIVIL�GE DU ROI.</head>
+				<p>LOUIS PAR LA GR�CE DE DIEU ROI DE FRANCE ET DE NAVARRE : � nos am�s et f�aux conseillers les gens tenants nos cours de Parlement, ma�tres des requ�tes ordinaires de notre h�tel, baillis, s�n�chaux, pr�v�ts, leurs lieutenants, et � tous autres nos justiciers et officiers qu�il appartiendra, Salut. Notre bien am� Augustin Courb�, Libraire � Paris, nous a fait remontrer qu�il a recouvr� un manuscrit un livre intitul�, Les Rivaux Amis, tragi-com�die, par le Sieur de Bois Robert, lequel liure il d�sirait imprimer, s�il avait sur ce nos lettres n�cessaires, lesquelles il nous a tr�s humblement suppli� de lui accorder. A CES CAUSES nous avons permis et permettons � l�exposant, d�imprimer, ou faire imprimer, vendre et d�biter en tous les lieux de notre ob�issance, en un ou plusieurs volumes ledit livre, en telle marge et caract�res, et autant de fois qu�il voudra, durant l�espace de sept ans entiers et accomplis, � compter du jour que ledit livre sera achev� d�imprimer pour la premi�re fois : et faisons tr�s expresses d�fenses � toutes personnes de quelque qualit� et condition qu�elles soient, de l�imprimer, faire imprimer, vendre ni distribuer en aucun lieu de ce Royaume, durant ledit temps et espace, sous pr�texte d�augmentation correction, changement de titre, ou autrement, en quelque sorte et mani�re que ce soit, � peine de quinze cens liures d�amende, payables sans d�port par chacun des contrevenants, et applicables un tiers � nous, un tiers � l�Hostel Dieu de Paris, et l�autre tiers � l�exposant, confiscation des exemplaires contrefaits, et de tous d�pens dommages et int�r�ts. A condition qu�il sera mis deux Exemplaires en notre Biblioth�que publique, et un en celle de notre tr�s cher et f�al, le sieur S�guier, Chevalier, Chancelier de France, avant que de les exposer en vente, � peine de nullit� des pr�sentes ; du contenu desquelles nous vous mandons que fassiez jouir pleinement et paisiblement l�exposant, et ceux qui auront droit de lui, sans qu�il leur soit fait aucun trouble ou emp�chement. Voulons qu�en mettant au commencement ou � la fin de chaque volume un bref extrait des pr�sentes, elles soient tenues pour signifi�es, et que foi y soit ajout�e, et aux copies d�icelles, collationn�es par un de nos am�s et f�aux conseillers et secr�taires, comme � l�Original. Mandons aussi au premier notre Huissier ou Sergent sur ce requis, de faire pour l�ex�cution des pr�sentes tous exploits n�cessaires, sans demander autre permission. Car tel est notre plaisir. Nonobstant oppositions ou appellations quelconques, et sans pr�judices d�icelles ; clameur de haro, charte normande, et autres Lettres � ce contraires. </p>
+				<p>Donn� � Paris le 28. jour de Mai, l�an de gr�ce, mil six cent trente-huit : Et de notre r�gne le vingt-huiti�me.</p>
+				<p>Par le Roi en son Conseil. Sign� CONRART.</p>
+				<p>Les Exemplaires ont �t� fournis, ainsi qu�il est port� par le privil�ge.</p>
+				</privilege>
+				<acheveImprime id='1638-09-12'>Achev� d�imprimer pour la premi�re fois, le 12. Septembre, 1638.</acheveImprime>
+			<printer id="COURBE">� PARIS, Chez AUGUSTIN COURB�, au Palais, en la Galerie des Merciers, � la Palme.</printer>
+		</docImprint>
+		<performance>
+			<premiere date="1653" location="Th��tre du Palais-Royal">Repr�sent�e pour la premi�re fois � Paris sur le Th��tre de l'H�tel de Bourgogne en 1653.</premiere>
+		</performance>
+		<dedicace><adresse>� MONSEIGNEUR LE COMTE D�ANNAN.</adresse>
+			<p>Monseigneur,</p>
+			<p>De quelque nature que soit la Gloire, elle a cela de particulier avec le feu de s��lever toujours en haut, et de n�agir jamais si noblement que sur les choses le moins attach�es � la mati�re terrestre. Il en est de m�me des hommes illustres; qui d�daignent si fort les actions viles et rampantes, qu�ils n�en font pour l�ordinaire que de glorieuses, et de relev�es. De quoi je m�assure, on ne s��tonnera pas beaucoup, si l�on consid�re que cet avantage est un effet de la bonne �ducation, et encore plus de la Nature, qui d�nie la plupart du temps aux �mes vulgaires, ce qu�elle donne presque toujours aux personnes de grande naissance. Je sais MONSEIGNEUR, qu�au point ou la v�tre est consid�rable, elle vous fait assez estimer des honn�tes gens, sans qu�il soit besoin que je le publie. Aussi ne pr�tends-je pas de vous louer ici, pour faire savoir � tout le monde que personne n�ignore ; mais plut�t pour rendre � vos vertus une reconnaissance d�autant plus juste, qu�elles vous font admirer de tous en g�n�ral, et de moi particuli�rement. Car je crois ne rien donner � la flatterie, si je dis qu�en un �ge encore tendre, vous t�moignez avoir une mod�ration extraordinaire, et que les dons du corps sont accompagn�s en vous de ceux de l�esprit, dans une solide connaissance des Arts et des Langues. Vous avez si bien appris la n�tre, qu��tant assur� comme je suis, qu�elle vous est famili�re, et que vous aimez passionn�ment les ouvrages de prose et de vers, je prends la hardiesse de vous envoyer celui-ci, que j�ai depuis peu, fait mettre en lumi�re. C�est une nouvelle pi�ce de th��tre, que votre grande REINE, qui est une des merveilles de notre FRANCE, et les d�lices de l�ANGLETERRE, a d�j� vu �crite � la main, et qu�elle a m�me daign� honorer de son approbation ; ce qui me fait esp�rer, que cette TRAGI-COM�DIE ayant eu le bonheur de lui plaire, vous n�aurez pas d�sagr�able qu�elle vous soit d�di�e. Recevez la doncques s�il vous pla�t, pour un t�moignage de ce que je dois � votre Vertu, et du service que je vous ai vou�, puisque je suis de toute mon �me, </p>
+			<p>MONSEIGNEUR,</p>
+			<p>Votre tr�s humble, et tr�s ob�issant serviteur, I. BAUDOIN.</p>
+		</dedicace>
+		<preface><head>AU LECTEUR.</head>
+			<p>Je vous entretiendrais amplement sur ce po�me Dramatique ; si je ne savais, qu�en le lisant vous-m�me d�un bout � l�autre, vous en trouverez sans doute le sujet plus divertissant, et la tissure plus agr�able. Il me suffit de vous dire, que son auteur est assez connu par le m�rite de son esprit, et par ses autres ouvrages, pour vous faire juger �quitablement de ce que vaut celui-ci. C�est une TRAGI-COMEDIE, accommod�e au th��tre, o�, quand on l�a repr�sent�e, elle n�a pas manqu� d�approbateurs, qui lui ont donn� de l�gitimes louanges. Votre sentiment secondera le leur je m�assure, en la voyant sur le papier ; et vous avouerez, � vrai dire, que l�invention en est belle, la conduite judicieuse, et l�intrigue ing�nieusement d�m�l�e. Que si par m�garde, il s�y est gliss� des fautes d�impression, vous seriez peu raisonnable de ne les excuser pas, puis qu�il n�est point de livre qui s�en exempte, quelque diligence qu�on y apporte. </p>
+		</preface>
+		<castList><head>ACTEURS</head>
+			<castItem><role id="PHALANTE" civil="M" type="H" statut="duc" age="A" stat_amour="">PHALANTE</role>, Fils inconnu d�Iarbe, Duc de Calabre.</castItem>
+			<castItem><role id="HYDASPE" civil="M" type="H" statut="aristocrate" age="A" stat_amour="">HYDASPE</role>, Compagnon de Phalante.</castItem>
+			<castItem><role id="IOLAS" civil="M" type="H" statut="prince" age="A" stat_amour="">IOLAS</role>, Prince de Tarente.</castItem>
+			<castItem><role id="CLARIDAN" civil="M" type="H" statut="capitaine" age="A" stat_amour="">CLARIDAN</role>, Capitaine de Phalante.</castItem>
+			<castItem><role id="B�R�NICE" civil="F" type="H" statut="aristocrate" age="A" stat_amour="">B�R�NICE</role>, Fille du Duc de Calabre.</castItem>
+			<castItem><role id="LE PAGE" civil="M" type="H" statut="page" age="A" stat_amour="">LE PAGE</role>.</castItem>
+			<castItem><role id="IOLANTE" civil="F" type="H" statut="prince" age="A" stat_amour="">IOLANTE</role>, Princesse de Tarente, S�ur d� Iolas.</castItem>
+			<castItem><role id="LILIANE" civil="F" type="H" statut="prince" age="A" stat_amour="">LILIANE</role>, Princesse de Tarente, S�ur d� Iolas.</castItem>
+			<castItem><role id="LES M�DECINS" civil="G" type="H" statut="m�decin" age="A" stat_amour="">LES M�DECINS</role> du Prince Iolas.</castItem>
+			<castItem><role id="CARINTE" civil="F" type="H" statut="fille d'honneur" age="A" stat_amour="">CARINTE</role>, Fille d�honneur des Princesses de Tarente.</castItem>
+			<castItem><role id="CL�ONTE" civil="M" type="H" statut="capitaine" age="A" stat_amour="">CL�ONTE</role>, Capitaine des gardes d�Iolas.</castItem>
+			<castItem><role id="ARONTE" civil="M" type="H" statut="aristocrate" age="A" stat_amour="">ARONTE</role>, gentilhomme d�Iolas.</castItem>
+			<castItem><role id="IARBE" civil="M" type="H" statut="duc" age="A" stat_amour="">IARBE</role>, Duc de Calabre.</castItem>
+			<castItem><role id="LES SOLDATS" civil="M" type="H" statut="soldat" age="A" stat_amour="">LES SOLDATS</role>.</castItem>
+			<castItem><role id="M�NANDRE" civil="M" type="H" statut="confident" age="V" stat_amour="">M�NANDRE</role>, Confident d�Iarbe.</castItem>
+			<castItem><role id="ALM�DOR" civil="L" type="H" statut="aristocrate" age="A" stat_amour="">ALM�DOR</role>, Gentilhomme d�Iarbe.</castItem>
+		</castList>
+<set location="Italie" country="Italie" periode="XVII�me" link="">La Sc�ne est � Tarente. </set>
+</front>
+<body>
+<div1 type='acte' n='1'><head>ACTE I</head>
+<div2 type='scene' n='1'><head>SC�NE I. Phalante, Hydaspe, Claridan.</head>
+<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+	<l id="1">Enfin tu ne peux plus diff�rer de me dire,</l>
+	<l id="2">Le sujet important qui cause ton martyre,</l>
+	<l id="3">Et quelle occasion t�oblige de ch�rir,</l>
+	<l id="4">Ces Tarentins press�s, que tu viens secourir.</l>
+	<l id="5">Nous voila parvenus dans la Ville assi�g�e ;</l>
+	<l id="6">Avant que d�aborder la Princesse afflig�e,</l>
+	<l id="7">De gr�ce, �clairci moi, favorise mes v�ux,</l>
+	<l id="8" part='i'>Dis-moi ce qui nous m�ne.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="8" part='f'>Hydaspe, je le veux,</l>
+	<l id="9">Puisque je l�ai promis, il faut que je seconde</l>
+	<l id="10">Le d�sir de l�ami le plus discret du monde ;</l>
+	<l id="11">Qui vivement touch� de la peine o� je suis,</l>
+	<l id="12">Ainsi que mes honneurs, partage mes ennuis :</l>
+	<l id="13">Mais ami, je ne puis contenter ton envie,</l>
+	<l id="14">Sans faire en abr�g� l�Histoire de ma vie.</l>
+	<l id="15">Marchons vers le Palais toujours au petit pas,</l>
+	<l id="16">Cependant Claridan, dispose nos soldats,</l>
+	<l id="17">Rends de ces Calabrais l�entreprise inutile,</l>
+	<l id="18">Je te commets le soin du salut de la Ville,</l>
+	<l id="19">Qui plaint son brave chef, perdu parmi les morts,</l>
+	<l id="20">Et qui n�esp�re plus en rien qu�en nos efforts,</l>
+	<l id="21">Jette les yeux par tout, tourne, et veille sans cesse,</l>
+	<l id="22">Tandis que nous irons visiter la Princesse.</l>
+</sp>
+<sp who="CLARIDAN"><speaker>CLARIDAN.</speaker>
+	<l id="23">Vous pouvez sur mes soins reposer s�rement.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SC�NE II. Phalante, Hydaspe.</head>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="24">Puisque tu veux savoir l��tat de mon tourment,</l>
+	<l id="25">Et pourquoi retourn� d�Afrique en la Sicile,</l>
+	<l id="26">J�en suis parti soudain, pour sauver cette ville,</l>
+	<l id="27">Par le cong� du Roi, qui secondant mes v�ux,</l>
+	<l id="28">M�aime au point que tu sais, et veut ce que je veux,</l>
+	<l id="29">Apprends cher confident, que depuis trois ann�es,</l>
+	<l id="30">Par le vouloir du ciel, et de mes destin�es,</l>
+	<l id="31">J�avais donn� mon �me au Prince g�n�reux,</l>
+	<l id="32">Qui nagu�re r�gnait en ce lieu mal-heureux ;</l>
+	<l id="33">Nous sentant presque �gaux, d�esprits, de m�urs, et d��ges,</l>
+	<l id="34">J�avais gagn� son c�ur en cinq ou six voyages,</l>
+	<l id="35">Que par l�ordre du Roi, ton Seigneur, et le mien,</l>
+	<l id="36">J�ai fait pour les unir par un ferme lien.</l>
+	<l id="37">Alors non seulement en des faveurs si grandes,</l>
+	<l id="38">J�obtins de lui l�effet de toutes mes demandes :</l>
+	<l id="39">Mais par son c�ur encore il voulut m'accorder</l>
+	<l id="40">Un pr�sent, que je n�eusse os� lui demander.</l>
+	<l id="41">Phalante, me dit-il, tu sais que d�ordinaire,</l>
+	<l id="42">On nous peint la Fortune inconstante, et l�g�re,</l>
+	<l id="43">Tu sais que sa faveur s��coule incontinent,</l>
+	<l id="44">Et qu�on ne voit rien d�elle ici de permanent.</l>
+	<l id="45">Si jamais l�amiti� de ton roi t�abandonne,</l>
+	<l id="46">Viens partager ici mes biens, et ma Couronne.</l>
+	<l id="47">Je te jure, Phalante, une immuable foi ;</l>
+	<l id="48">Depuis que je t�ai vu, mon c�ur n�est plus � moi :</l>
+	<l id="49">Ta Vertu m�a charm�, je ne m�en puis d�fendre,</l>
+	<l id="50">Tant que tu traiteras, ton ma�tre n�a qu�� prendre ;</l>
+	<l id="51">Tu m�as fait tout signer, comme il l�a r�solu,</l>
+	<l id="52">Mes �tats seraient siens, si tu l�eusses voulu.</l>
+	<l id="53">� ce ressouvenir, Hydaspe, je me p�me,</l>
+	<l id="54">Je perds, en le perdant, la moiti� de son �me ;</l>
+	<l id="55">Dans mon deuil aujourd�hui rien ne peut m��galer,</l>
+	<l id="56">Et rien dans ce malheur ne me peut consoler.</l>
+</sp>
+<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+	<l id="57">Ce Prince, je l�avoue, avait beaucoup de charmes,</l>
+	<l id="58">Et cette grande perte est digne de tes larmes ;</l>
+	<l id="59">Mais ton grand c�ur, Phalante, invincible d�ailleurs,</l>
+	<l id="60">Veut-il se laisser vaincre � ses propres douleurs ?</l>
+	<l id="61">En pleurant ton ami, veux-tu cesser de vivre ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="62">Plut au Ciel que mon sort m�eut permis de le suivre !</l>
+	<l id="63">�coute, et tu verras que tant qu�il fut vivant,</l>
+	<l id="64">Son amiti� pour moi passa bien plus avant :</l>
+	<l id="65">Par l� tu jugeras du mal qui me transporte.</l>
+	<l id="66">Voulant s�unir � moi d�une cha�ne plus forte,</l>
+	<l id="67">Et que ce nom de fr�re, entre de si doux n�uds,</l>
+	<l id="68">Fut avecque raison commun entre nous deux,</l>
+	<l id="69">Il voulut l�assurer par la foi d�Hymen�e ;</l>
+	<l id="70">De ses deux s�urs, Hydaspe, il me promit l�a�n�e,</l>
+	<l id="71">Mais j�avais pour la jeune, une secr�te ardeur,</l>
+	<l id="72">Et ses yeux, o� r�gnaient l�Amour, et la Pudeur,</l>
+	<l id="73">Semblaient si bien r�pondre � ma naissante flamme,</l>
+	<l id="74">Que seuls ils eurent droit d�assujettir mon �me.</l>
+	<l id="75">Sans incivilit�, je pouvais consulter,</l>
+	<l id="76">Sur l�honneur qu�il m�offrait, avant que l�accepter,</l>
+	<l id="77">Vu que j�avais un ma�tre, et que sans sa licence,</l>
+	<l id="78">Je n�eusse os� conclure une telle alliance.</l>
+	<l id="79">Dans ce ressentiment, je marquai mes transports,</l>
+	<l id="80">Le respect me fournit des termes assez forts ;</l>
+	<l id="81">Et je me composai de sorte, qu�Iolante,</l>
+	<l id="82">Remarquant dans mes yeux cette ardeur violente,</l>
+	<l id="83">O� l�Amour de sa s�ur m�avait pr�cipit�,</l>
+	<l id="84">L�imputa faussement aux traits de sa beaut�.</l>
+	<l id="85">L�Amour tient cependant Liliane avertie,</l>
+	<l id="86">Qu�elle avait de mon c�ur la meilleure partie,</l>
+	<l id="87">Que j��tais son esclave, et que je n�aspirais</l>
+	<l id="88">Qu�a l�immortel honneur de vivre sous ses lois.</l>
+</sp>
+<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+	<l id="89">Je touche au but, Phalante, et comprends le myst�re,</l>
+	<l id="90">Tu viens servir la s�ur, aussit�t que le fr�re,</l>
+	<l id="91">Cette jeune merveille attire ici nos pas,</l>
+	<l id="92">Ton c�ur assur�ment languit dans ses appas.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="93">Suspend ton jugement, et si tu ne te lasses,</l>
+	<l id="94">Du r�cit ennuyeux de mille autres disgr�ces,</l>
+	<l id="95">� qui je fus en butte, accorde moy ce point,</l>
+	<l id="96">�coutes en la suite, et ne m�interromps point.</l>
+	<l id="97">Sur le point qu�Iolante entrait en fr�n�sie,</l>
+	<l id="98">Que nos feux mutuels fondaient sa jalousie,</l>
+	<l id="99">J�eus ordre de partir, non sans beaucoup d�ennui ;</l>
+	<l id="100">Ce Duc des Calabrais, qui nous presse aujourd�hui,</l>
+	<l id="101">Tenant comme tu sais, des terres en hommage,</l>
+	<l id="102">Du Roi, qui justement redoutait son courage,</l>
+	<l id="103">Je fus en ambassade envoy� dans sa Cour,</l>
+	<l id="104">O� je fus oblig� de faire un long s�jour.</l>
+	<l id="105">Las ! De mon sort bizarre admire le caprice,</l>
+	<l id="106">Je n�eus pas sit�t vu sa fille B�r�nice,</l>
+	<l id="107">Cette rare Princesse, � qui cent potentats,</l>
+	<l id="108">Ont consacr� leurs c�urs, ainsi que leurs �tats,</l>
+	<l id="109">Ce miracle d�Amour, devant qui tout s�incline,</l>
+	<l id="110">Que me voil� charm� de sa beaut� divine ;</l>
+	<l id="111">Et ce puissant objet voulut m��ter du c�ur</l>
+	<l id="112">Celui de Liliane, et s�en rendre Vainqueur ;</l>
+	<l id="113">Mais ce fort assailli, tenait encor pour elle,</l>
+	<l id="114">Dans ma l�g�ret� je me trouvais fid�le ;</l>
+	<l id="115">Et quand j�examinais ces deux charmes puissants,</l>
+	<l id="116">Tant�t l�un, tant�t l�autre, avait droit sur mes sens.</l>
+	<l id="117">Toutefois B�r�nice �tant la plus parfaite,</l>
+	<l id="118">Par la d�cision qu�Amour m�me en a faite,</l>
+	<l id="119">Il semblait que mon �me errante en divers lieux,</l>
+	<l id="120">Inclin�t davantage aux attraits de ses yeux.</l>
+	<l id="121">Un secret mouvement, que je ne pus comprendre,</l>
+	<l id="122">Apr�s un long combat, me for�a de me rendre :</l>
+	<l id="123">Son accueil obligeant, sa gr�ce, et ses discours,</l>
+	<l id="124">Firent na�tre en mon c�ur mille nouveaux amours ;</l>
+	<l id="125">Avecque nos d�sirs, nos yeux se rencontr�rent,</l>
+	<l id="126">Qui de coups mutuels, nos �mes p�n�tr�rent.</l>
+	<l id="127">Mais quoi que de ce feu je visse la grandeur,</l>
+	<l id="128">Je m�arr�tais encore � ma premi�re ardeur,</l>
+	<l id="129">Et conservais en moi certaines �tincelles,</l>
+	<l id="130">Qui ne se perdaient point dans des flammes si belles.</l>
+</sp>
+<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+	<l id="131">Bizarre coup du sort ! �trange effet d�amour !</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="132">Ce dernier feu pourtant croissait de jour en jour ;</l>
+	<l id="133">J�en voyais la lumi�re, et j�en sentais la flamme,</l>
+	<l id="134">Qui petit � petit s�allumait dans mon �me.</l>
+	<l id="135">De mille attraits nouveaux, je me trouvais charm�,</l>
+	<l id="136">J��tais �galement, Amant, et bien-aim� ;</l>
+	<l id="137">Et cette incomparable, et divine Princesse,</l>
+	<l id="138">� sa chaste amiti� m�la tant de tendresse,</l>
+	<l id="139">Qu�enfin ce rare objet occupant mes esprits,</l>
+	<l id="140">M�eut fait avoir le ciel, et le monde � m�pris ;</l>
+	<l id="141">Je la sollicitai d�accomplir l�Hym�n�e ;</l>
+	<l id="142">Mais comme pour l�honneur cette belle �tait n�e,</l>
+	<l id="143">Quoi qu�elle m�aim�t fort, elle me fit sentir,</l>
+	<l id="144">Que son c�ur � ce point ne pouvait consentir.</l>
+	<l id="145">Phalante, me disait cette aimable Princesse,</l>
+	<l id="146">Ce qui para�t de toi me pla�t, je le confesse ;</l>
+	<l id="147">Et si je n�estimais un si parfait Amant,</l>
+	<l id="148">Je serais sans courage, et sans ressentiment :</l>
+	<l id="149">Je ne rougirai point d�avouer que je t�aime,</l>
+	<l id="150">Et je crois que je suis ma�tresse de moi-m�me,</l>
+	<l id="151">Et s�il m�est biens�ant de choisir un �poux,</l>
+	<l id="152">Je te donne la foi, je te pr�f�re � tous ;</l>
+	<l id="153">Mais puisque je d�pens des volont�s d�un p�re,</l>
+	<l id="154">C�est en lui seul qu�il faut que ton amour esp�re.</l>
+	<l id="155">Tu vois qu�il te ch�rit, qu�il fait ce que tu veux ;</l>
+	<l id="156">Flatte donc son humeur, Phalante, tu le peux,</l>
+	<l id="157">Rends, comme ta vertu, ta flamme renomm�e,</l>
+	<l id="158">En un mot, charme-le, comme tu m�as charm�e ;</l>
+	<l id="159">Et s�il ne tient qu�� moi que tu ne sois heureux,</l>
+	<l id="160">Tu surmonteras l�heur de tous les amoureux.</l>
+	<l id="161">Ainsi vivait pour moi la chaste B�r�nice,</l>
+	<l id="162">Quand le sort ennuy� de m��tre si propice,</l>
+	<l id="163">Me vint s�parer d�elle, avec ordre du Roi,</l>
+	<l id="164">De passer en Afrique, ou tu vins quant et moi.</l>
+	<l id="165">Je ne t�exprime point nos regrets, ni nos larmes,</l>
+	<l id="166">Juge de ma douleur par l�exc�s de ses charmes :</l>
+	<l id="167">Autant que m�occupa la guerre dans ces lieux,</l>
+	<l id="168">Cette image toujours fut pr�sente � mes yeux.</l>
+	<l id="169">Tant que je fus absent de cette belle id�e,</l>
+	<l id="170">Je sentis nuit et jour, mon �me poss�d�e.</l>
+	<l id="171">Mais dans ce long s�jour, je fus si malheureux,</l>
+	<l id="172">Que mon meilleur ami s�en rendit amoureux ;</l>
+	<l id="173">Et comme il ignorait le secret de ma flamme,</l>
+	<l id="174">Il enleva bient�t ce tr�sor de mon �me.</l>
+</sp>
+<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+	<l id="175">Quoi ? Sans t�en avertir, la belle se rendit,</l>
+	<l id="176" part='i'>Et ne r�sista point ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="176" part='f'>L�honneur lui d�fendit ;</l>
+	<l id="177">Et puis le Duc son p�re en ce prince admirable,</l>
+	<l id="178">Des partis qui s�offraient trouvant le plus sortable,</l>
+	<l id="179">Il le voulut d�abord aux autres pr�f�rer,</l>
+	<l id="180">Sans consulter sa Fille, et sans d2liberer.</l>
+</sp>
+<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+	<l id="181">D�o� vient donc qu�il lui fait une guerre mortelle ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="182">Voici comme on m��crit qu�arriva leur querelle,</l>
+	<l id="183">Le Duc des Calabrais, � certain jour pr�cis,</l>
+	<l id="184">S�obligea par contrat au Prince son beau fils,</l>
+	<l id="185">De livrer en ses mains, apr�s le mariage,</l>
+	<l id="186">Trois places qu�il avait dedans son voisinage :</l>
+	<l id="187">Ce jour �tant venu, ceux qui les commandaient</l>
+	<l id="188">Refus�rent d�ouvrir ; parce qu�ils attendaient,</l>
+	<l id="189">Nouvel ordre du Duc : ce refus t�m�raire,</l>
+	<l id="190">Du Prince de Tarente excita la col�re :</l>
+	<l id="191">Il s�en plaignit au Duc, qui dit fort brusquement,</l>
+	<l id="192">Qu�il fallait que sa mort pr�vint ce changement.</l>
+	<l id="193">Lors que tu seras mort, lui repartit le Prince,</l>
+	<l id="194">Je serai possesseur de toute la Province ;</l>
+	<l id="195">Attendant, dit le Duc, ce terme rigoureux,</l>
+	<l id="196">Tu poss�des ma Fille, es tu pas trop heureux ?</l>
+	<l id="197">Ce mot plus que le reste anima sa vengeance ;</l>
+	<l id="198">Et comme il �tait chaud, et tout plein de vaillance,</l>
+	<l id="199">Ne voulant pas long-temps dormir sur cet affront,</l>
+	<l id="200">Il se mit en campagne, et ce coup fut si prompt,</l>
+	<l id="201">Avant qu�on eut ou� le bruit de ses machines,</l>
+	<l id="202">Il avait pris d�assaut ces trois places voisines :</l>
+	<l id="203">Ce Duc plein de col�re, et de ressentiment,</l>
+	<l id="204">Chercha de se venger aussi soudainement,</l>
+	<l id="205">Maudit son alliance ; et lui faisant la guerre,</l>
+<note type="L">Tarente : Ville forte et port d'Italie, dans l'ancien royaume de Naples. [B]</note>
+	<l id="206">L�assi�gea dans Tarente, et par mer, et par terre :</l>
+	<l id="207">Ce Prince magnanime, et surpris, et press�,</l>
+	<l id="208">Ayant su mon retour, au point d��tre forc�,</l>
+	<l id="209">Me demanda secours, me d�couvrit sa peine,</l>
+	<l id="210">Et voila cher ami le sujet qui nous m�ne :</l>
+	<l id="211">Mais Dieu ! Que le succ�s, est triste, et malheureux ;</l>
+	<l id="212">Cette nuit ce lion, ardent, et g�n�reux,</l>
+	<l id="213">Nous sentant approcher de la ville investie,</l>
+	<l id="214">Pour nous favoriser a fait une sortie,</l>
+	<l id="215">O� j�apprends qu�il a fait de merveilleux efforts,</l>
+	<l id="216">Mais qu�il est demeur� perdu parmi les morts :</l>
+	<l id="217">Voila le coup mortel dont mon �me est bless�e,</l>
+	<l id="218">Et le souci cuisant, qui trouble ma pens�e.</l>
+</sp>
+<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+	<l id="219">Tu perds, je le confesse, un ami g�n�reux ;</l>
+	<l id="220">Vengeons donc en ce lieu son destin rigoureux,</l>
+	<l id="221">Et que ces Calabrais, d�humeur trop insolente,</l>
+	<l id="222">Apprennent aujourd�hui, qu�il revit en Phalante.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="223">Nous voici, cher Hydaspe, aux portes du ch�teau ;</l>
+	<l id="224">Et ce lieu, qui me fut si charmant, et si beau,</l>
+	<l id="225">Au temps que Liliane y fit na�tre ma flamme,</l>
+	<l id="226">Par la mort de son fr�re est funeste � mon �me.</l>
+</sp>
+<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+	<l id="227">Si tu l�aimes encor, console sa douceur.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="228">Je suis plus qu�elle � plaindre, en ce dernier malheur :</l>
+	<l id="229">L�amiti� d�Iolas faisait toute ma gloire,</l>
+	<l id="230">J�en dois jusqu�� la mort affliger ma m�moire ;</l>
+	<l id="231">Ce n�est pas tout, Hydaspe, au trouble o� je me sens,</l>
+	<l id="232">J�ai bien dans mon esprit des combats plus pressants ;</l>
+	<l id="233">Je ne dois voir ici rien qui ne contribue,</l>
+	<l id="234">� cro�tre infiniment la douleur qui me tue.</l>
+	<l id="235">Trois objets tous divins occupent dans ces lieux,</l>
+	<l id="236">D�j� diversement mon esprit, et mes yeux.</l>
+	<l id="237">Iolante, qui sait que je l�ai m�pris�e,</l>
+	<l id="238">Ma B�r�nice en deuil, Liliane abus�e,</l>
+	<l id="239">Me font fr�mir de crainte, et ce funeste abord,</l>
+	<l id="240">O� je suis oblig�, m�est plus dur que la mort.</l>
+	<l id="241">Cher et parfait ami, m�eusses-tu cru capable,</l>
+	<l id="242">De l�infid�lit�, dont je me sens coupable ?</l>
+	<l id="243">Aurais-tu peu penser, que mon c�ur engag�,</l>
+	<l id="244">Eust pu courir au change, et se fut partag� ?</l>
+</sp>
+<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+	<l id="245">Donc Liliane encore occupe ta pens�e ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="246">Mon �me, je l�avoue, en est toujours bless�e ;</l>
+	<l id="247">Et quand je reverrai cette Divinit�,</l>
+	<l id="248">Je c�derai sans doute aux traits de sa beaut�.</l>
+	<l id="249">Chose �trange, qu�Amour parmi tant de traverses,</l>
+	<l id="250">Se plaise � me br�ler de deux flammes diverses !</l>
+	<l id="251">H�las ! mon inconstance � ma honte para�t ;</l>
+	<l id="252">Mais quoi qu�elle m��tonne, Hydaspe, elle me pla�t.</l>
+	<l id="253">Un mouvement secret, dont mon c�ur est complice,</l>
+	<l id="254">Me donne � Liliane, et puis � B�r�nice.</l>
+	<l id="255">Si l�une a plus d�attraits, l�autre a plus de douceur,</l>
+	<l id="256">J�aime l�une en ma�tresse, et ch�ris l�autre en s�ur ;</l>
+	<l id="257">Mais en toutes les deux, j�adore une merveille,</l>
+	<l id="258">Et pour le choix en vain la raison me conseille.</l>
+</sp>
+<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+	<l id="259">Si faut-il te r�soudre o� tu veux t�engager.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="260">Avecque B�r�nice allons nous affliger,</l>
+	<l id="261">Et je consulterai mon amour, et leurs charmes,</l>
+	<l id="262">Quand le temps, et nos soins auront s�ch� leurs larmes.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SC�NE III. B�r�nice, Aronte, Le Page.</head>
+<sp who="B�R�NICE"><speaker>B�R�NICE, et sa suite.</speaker>
+	<l id="263">Ces propos superflus aigrissent ma douleur,</l>
+	<l id="264">Souffrez qu�en libert� je pleure mon malheur,</l>
+	<l id="265">Amis laissez-moi seule ; et parmi tant d�atteintes,</l>
+	<l id="266">Ne venez point m�ler vos soupirs � mes plaintes,</l>
+	<l id="267">Je suis inconsolable, en l��tat o� je suis,</l>
+	<l id="268">Vos consolations augmentent mes ennuis.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="269">H� ! De gr�ce, Madame, en ce malheur extr�me,</l>
+	<l id="270">Ayez piti� de nous, ayez en de vous-m�me.</l>
+	<l id="271">Notre espoir est tomb�, mais vous le relevez :</l>
+	<l id="272">Nous ne perdrons pas tout, si vous vous conservez ;</l>
+<note type="L">Cohorte : Corps d'Infanterie parmi les Romains, qui �tait de cinq cents hommes. [FC]</note>
+	<l id="273">Voyez que votre p�re, avecque ses cohortes,</l>
+	<l id="274">Tout bouillant de courroux est d�j� dans nos portes ;</l>
+	<l id="275">Qu�ordonnez-vous, Madame en cette extr�mit� ?</l>
+	<l id="276">Fl�chirons nous le c�ur de ce prince irrit�,</l>
+	<l id="277">Qu�on ne peut implorer, sans repos, et sans honte ?</l>
+	<l id="278" part='i'>Que voulez-vous qu�on fasse ?</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="278" part='f'>Il faut le perdre, Aronte,</l>
+<note type="L">Manes : Terme po�tique qui signifie l'ombre ou l'�me d'un mort. [F]</note>
+	<l id="279">Les m�nes d�Iolas m�ont ce crime permis ;</l>
+	<l id="280">Mon p�re est le plus grand de tous mes ennemis :</l>
+	<l id="281">�loignons ce tyran, r�primons son audace ;</l>
+	<l id="282">Ce que nous ne pouvons, que Phalante le fasse,</l>
+	<l id="283">Puisqu�il est dans nos murs entr� si puissamment,</l>
+	<l id="284">Et qu�il veut prendre part � mon ressentiment,</l>
+	<l id="285">(Ah ! je meurs, quand je pense � mon sort mis�rable)</l>
+	<l id="286">J�ai beau pleurer ma perte, elle est irr�parable,</l>
+	<l id="287">Apr�s ce coup funeste, il faut, il faut p�rir ;</l>
+	<l id="288">Mais je vous vengerai, premier que de mourir,</l>
+	<l id="289">Faisant du camp d�Iarbe une sc�ne sanglante.</l>
+</sp>
+<sp who='LE PAGE'><speaker>LE PAGE.</speaker>
+	<l id="290">On me vient avertir, Madame, que Phalante,</l>
+	<l id="291">Entre dans le Palais, et demande � vous voir,</l>
+	<l id="292">Pour s�acquitter vers vous de son premier devoir.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="293">La douleur m�a du tout de raison d�pourvue ;</l>
+	<l id="294">Je n�aurais pas le c�ur de soutenir sa vue.</l>
+	<l id="295">Pour quelque temps, Aronte, allez l�entretenir,</l>
+	<l id="296">Quand mes yeux seront secs, vous le ferez venir :</l>
+	<l id="297">J�ai besoin de son bras, et je suis soulag�e,</l>
+	<l id="298">De penser que par lui je puis �tre veng�e.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SC�NE IV. Iolas, Cl�onte.</head>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="299">Gr�ce aux Dieux, je suis libre, et le Ciel a permis,</l>
+	<l id="300">Que je me sois tir� du camp des ennemis,</l>
+	<l id="301">Ou m�avait � tel point engag� la vengeance,</l>
+	<l id="302">Que je suis, presque vif, tomb� sous leur puissance,</l>
+	<l id="303">Mon bras � ces Tyrans m�avait bien accus� ;</l>
+	<l id="304">Mais la nuit est venue, et m�a favoris�.</l>
+	<l id="305">Malheureux est le chef anim�, qui s�engage,</l>
+	<l id="306">Second� seulement de son propre courage :</l>
+	<l id="307">Au plus fort du danger, les miens m�ont d�laiss� :</l>
+	<l id="308">J�en sors par un miracle, et ne suis que bless� :</l>
+	<l id="309">Toi seul, brave Cl�onte, en ces p�rils extr�mes,</l>
+	<l id="310">M�as fait voir ton courage, et montr� que tu m�aimes,</l>
+	<l id="311">Je ne me serais pas sans toi d�barrass�,</l>
+	<l id="312">De ce monceau de corps, o� j��tais entass�.</l>
+</sp>
+<sp who="CL�ONTE"><speaker>CL�ONTE.</speaker>
+	<l id="313">Je mets votre salut au nombre des merveilles,</l>
+	<l id="314">On ne courut jamais de fortunes pareilles :</l>
+	<l id="315">Cela vous doit instruire, � Prince glorieux,</l>
+	<l id="316">En autre occasion, � vous m�nager mieux ;</l>
+	<l id="317">Et ne pas exiger de ce c�ur invincible,</l>
+	<l id="318">Qui n�a c�d� qu�au nombre, une chose impossible.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="319">De tous tes compagnons n�est-il rest� que toi ?</l>
+</sp>
+<sp who="CL�ONTE"><speaker>CL�ONTE.</speaker>
+	<l id="320">Vos bons soldats sont morts, le reste a pris l�effroi.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="321">Si Phalante a peupl� mes murailles d�sertes,</l>
+	<l id="322">Le Ciel soit lou�, je ne plains point mes pertes,</l>
+	<l id="323">Ce g�n�reux amy r�pare mon malheur,</l>
+	<l id="324">Il conna�t le besoin que j�ai de sa valeur ;</l>
+</sp>
+<sp who="CL�ONTE"><speaker>CL�ONTE.</speaker>
+	<l id="325">Et que le Calabrais, qui vous fut infid�le,</l>
+	<l id="326">Passe pour l�agresseur d�une injuste querelle,</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="327">Ce qui plus me travaille en la peine ou je suis,</l>
+	<l id="328">C�est que ma B�r�nice, au fort des ennuis,</l>
+	<l id="329">A peine � supporter l�injustice d�un p�re,</l>
+	<l id="330">Qui me traite, et m�attaque en mortel adversaire ;</l>
+	<l id="331">Surprenons au Palais ceste chaste beaut�,</l>
+	<l id="332">Qui doit avoir l�esprit de douleur transport�,</l>
+	<l id="333">Et qui sur le faux bruit de ma triste aventure,</l>
+	<l id="334">Plaint sans doute mon corps, priv� de s�pulture.</l>
+	<l id="335">Nous voici pr�s des murs, que j�ai tant d�fendus,</l>
+	<l id="336">Et qui sans mon Phalante allaient �tre perdus :</l>
+	<l id="337">Allons voir cet ami, g�n�reux, et fid�le,</l>
+	<l id="338">Je suis vu du soldat, qui fait la sentinelle.</l>
+</sp>
+<sp who="CL�ONTE"><speaker>CL�ONTE.</speaker>
+	<l id="339">Il doit �tre abus� du bruit de votre mort.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="340">D�trompe son esprit, d�couvre moi d�abord ;</l>
+	<l id="341">Et puisqu�on ne peut pas ignorer dans Tarente,</l>
+	<l id="342">Pars o� je dois passer ma fortune pr�sente,</l>
+	<l id="343">Cours au Palais, Cl�onte, et garde qu�en ma Cour,</l>
+	<l id="344">Quelqu�un n�aille devant annoncer mon retour</l>
+	<l id="345">� ma Belle Princesse, � qui je veux l�apprendre,</l>
+	<l id="346">Car j�aurai grand plaisir tant�t � la surprendre.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='1'><head>ACTE II</head>
+<div2 type='scene' n='1'><head>SC�NE I. Phalante, B�r�nice, Iolas, cach�.</head>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="347">Non non, je ne saurais vous accorder ce point,</l>
+	<l id="348">Vous n�avez point failli, ne vous excusez point :</l>
+	<l id="349">J��tais, je le confesse, indigne de vos charmes ;</l>
+	<l id="350">Ne consid�rez point mes regrets, ni mes larmes,</l>
+	<l id="351">Le Ciel a bien montr� qu�il prenait soin de vous,</l>
+	<l id="352">Au choix qu�il vous a fait d�un plus parfait �pous ;</l>
+	<l id="353">Et s�il vous l�eut laiss� (Princesse g�n�reuse),</l>
+	<l id="354">Il vous eut fait justice, en vous rendant heureuse :</l>
+	<l id="355">Mais injuste qu�il est, vous le vient de ravir,</l>
+	<l id="356">Et me ravit aussi l�honneur de le servir :</l>
+	<l id="357">Le cruel � vos yeux n�en a fait que la monstre,</l>
+	<l id="358">Et par une funeste, et fatale rencontre,</l>
+	<l id="359">Ce jaloux devers lui l�a voulu retirer,</l>
+	<l id="360">Voyant que sa vertu le fais�it adorer.</l>
+</sp>
+<sp who='IOLAS'><speaker>IOLAS, cach�.</speaker>
+	<l id="361">Dieux ! Que viens-je d�entendre ? Est-il vrai que je veille ?</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="362">Encor que ma douleur, qui n�a point de pareille,</l>
+	<l id="363">Dans ce coup de malheur, qui nous a tous surpris,</l>
+	<l id="364">Occupe enti�rement mon c�ur, et mes esprits ;</l>
+	<l id="365">Et que le d�sespoir, tout pr�t de me confondre,</l>
+	<l id="366">Ne me dut pas permettre ici de te r�pondre ;</l>
+	<l id="367">Je te dirai pourtant, pour consoler ta foi,</l>
+	<l id="368">Que par la loi d�honneur j�ai p�ch� contre toi :</l>
+	<l id="369">Il est vrai qu�Iolas, n�a rien vu qui l��gale,</l>
+	<l id="370">Et je serais ingrate, insensible, et brutale,</l>
+	<l id="371">Si je me consolais jamais de son tr�pas,</l>
+	<l id="372">Et si l�ayant veng�, je ne suivais ses pas :</l>
+	<l id="373">Mais quand il n�eut pas eu les vertus, ni les gr�ces,</l>
+	<l id="374">Dont la post�rit� suivra toujours les traces ;</l>
+	<l id="375">Quand il n�eut pas charm� les c�urs, et les esprits,</l>
+	<l id="376">Imparfait, sans honneur, sans biens, je l�aurai pris,</l>
+	<l id="377">De la main de celui, dont l�enti�re puissance</l>
+	<l id="378">Demandait ce tribut � mon ob�issance.</l>
+	<l id="379">Il est vrai que d�abord mon �me y r�sista,</l>
+	<l id="380">Lorsqu�� mon souvenir ta foi se pr�senta,</l>
+	<l id="381">J�inclinais bien vers elle, et je l�aurais gard�e,</l>
+	<l id="382">Si l�honneur m�eut permis d�en conserver l�id�e :</l>
+	<l id="383">Mais par sa loi, Phalante, il te fallait trahir,</l>
+	<l id="384">Je d�pendais d�un p�re, il fallait ob�ir.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="385">La chaste B�r�nice est l�objet de sa flamme ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="386">Les Dieux me sont t�moins, Princesse de mon �me,</l>
+	<l id="387">Que la mort d�Iolas fait toute ma douleur,</l>
+	<l id="388">Que je suis plus que vous sensible � ce malheur,</l>
+	<l id="389">Que sa perte en mon c�ur est plus consid�r�e</l>
+	<l id="390">Que celle de la foi que vous m�avez jur�e ;</l>
+	<l id="391">Que je viens pour pleurer en cette extr�mit�,</l>
+	<l id="392">Non pour vous reprocher votre infid�lit�.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="393">Elle m�est bien assez par tes yeux reproch�e ;</l>
+	<l id="394">Et tes sages discours, dont je me sens touch�e,</l>
+	<l id="395">Aggravent d�autant plus mon offense envers toi,</l>
+	<l id="396">Qu�ils font voir ta constance, et condamnent ma foi.</l>
+	<l id="397">Mais, Phalante, dis moi que veux-tu que je fasse ?</l>
+	<l id="398">Ne viens point � ma peine ajouter ta disgr�ce :</l>
+	<l id="399">Il suffit de mon deuil, pour me faire mourir ;</l>
+	<l id="400">Au lieu de me r�soudre, et de me secourir,</l>
+	<l id="401">En l��tat ou je suis, par tes funestes plaintes,</l>
+	<l id="402">Tu donnes � mon c�ur de nouvelles atteintes :</l>
+	<l id="403">Vengeons ensemblement la mort de mon �poux,</l>
+	<l id="404">Contre un injuste p�re, anim� contre nous :</l>
+	<l id="405">Aussi bien nos douleurs ne feront pas revivre</l>
+	<l id="406">Ce Prince g�n�reux, que je veux bient�t suivre.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="407">Pl�t au Ciel, qui mes v�ux a souvent exauc�,</l>
+	<l id="408">Qu�avant sa mort, je l�eusse une fois embrass� !</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SC�NE II. Iolas, Phalante, B�r�nice.</head>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="409">Il ne tiendra qu�� toi, me voila plein de vie,</l>
+	<l id="410">Contente, cher ami, contente ton envie.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="411" part='i'>� Dieux !</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="411" part='f'>� justes Dieux, puis-je voir mon �poux !</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="412">Oui, tu le vois mon �me, et les destins jaloux</l>
+	<l id="413">De me voir possesseur d�une chose si belle,</l>
+	<l id="414">N�ont pas gard� leur haine, en me s�parant d�elle,</l>
+	<l id="415">Ils ont connu mon z�le, et ma fid�lit�,</l>
+	<l id="416">Et se sont repentis de leur s�v�rit� :</l>
+	<l id="417" part='i'>Je te revois encore.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="417" part='f'>� Destin favorable !</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="418">� faveur sans exemple ! � bien incomparable !</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="419">Mais qu�ai-je ou�, Phalante, en m�approchant d�ici ?</l>
+	<l id="420">Je t�ai vu plein d�angoisse, et combl� de souci,</l>
+	<l id="421">Reprocher d�une voix qui semblait alt�r�e,</l>
+	<l id="422">Je ne sais quel Amour, et quelle foi jur�e :</l>
+	<l id="423">Je t�ai vu joindre au deuil de ton ami perdu,</l>
+	<l id="424">La perte d�un tr�sor justement pr�tendu,</l>
+	<l id="425">Qui (si de tes secrets j�eusse pris connaissance)</l>
+	<l id="426">Serait fort ais�ment tomb� sous ta puissance.</l>
+</sp>
+<sp who='B�R�NICE'><speaker>B�R�NICE, en elle-m�me.</speaker>
+	<l id="427">Dans nos civilit�s il nous aura surpris,</l>
+	<l id="428">Il a nos chastes feux de nos bouches appris.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="429">Quoi ? Mon fr�re, est-ce ainsi qu�on m�ouvre sa pens�e ?</l>
+	<l id="430">Les traits de B�r�nice ont ton �me bless�e :</l>
+	<l id="431">Tu les as soutenus, tu les as peu sentir,</l>
+	<l id="432">Sans me montrer ta plaie, et sans m�en avertir ?</l>
+	<l id="433">Bien que mon c�ur br�l�t d�une flamme pareille,</l>
+	<l id="434">Sache que la raison, qui toujours me conseille,</l>
+	<l id="435">Et qui fait mon bonheur de tes propres plaisirs,</l>
+	<l id="436">M�aurait fait pr�f�rer tes v�ux � mes d�sirs :</l>
+	<l id="437">C�est sur ton amiti� que ma gloire se fonde,</l>
+	<l id="438">Et je n�ai rien de cher, ni d�agr�able au monde,</l>
+	<l id="439">Que je ne te c�dasse, au premier mouvement,</l>
+	<l id="440">Que je verrais para�tre en tes yeux seulement :</l>
+	<l id="441">Pourquoi doncques, cruel, m�as-tu cach� ta peine ?</l>
+	<l id="442">Quand tu trouvais en moi ta gu�rison certaine ?</l>
+	<l id="443">Pourquoi m�as-tu cel� tes transports amoureux,</l>
+	<l id="444">Quand mon consentement te pouvait rendre heureux ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="445">Il m��tait impossible, � Prince magnanime,</l>
+	<l id="446">De d�couvrir mon c�ur, sans d�couvrir mon crime,</l>
+	<l id="447">Avecque mon secret, j�eusse manifest�</l>
+	<l id="448">Vers toi ma perfidie, et ma d�loyaut� ;</l>
+	<l id="449">Et j�ai bien mieux aim� t��ter la connaissance,</l>
+	<l id="450">D�un c�ur que tu croyais, entier en ta puissance,</l>
+	<l id="451">Que te le faire voir, tra�tre, inconstant, et faux,</l>
+	<l id="452">Et te le d�couvrir avec tant de d�fauts.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="453">Cet �nigme est obscur, fais qu�on le puisse entendre.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="454">� ma confusion tu le dois bien comprendre :</l>
+	<l id="455">Ne te souvient il point, que quand tu me permis,</l>
+	<l id="456">De prendre place au rang de tes meilleurs amis,</l>
+	<l id="457">Pour m�en donner encore un plus grand t�moignage,</l>
+	<l id="458">Ta s�ur me fut par toi promise en mariage ?</l>
+	<l id="459">Dis moi, sans t��tre ingrat, la pouvais-je oublier ?</l>
+	<l id="460">Impun�ment ailleurs me pouvais-je lier ?</l>
+	<l id="461">Et sentant pour une autre une flamme si prompte,</l>
+	<l id="462">Voulais tu qu�� tes yeux j�exposasse ma honte ?</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="463">Me devant ton secret, pourquoi le cachais-tu ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="464">C��tait cacher le Vice � la m�me vertu.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="465">Tout ce que fait Phalante est �loign� du vice.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="466">Il a contre sa foi recherch� B�r�nice.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="467">T�ayant promis ma s�ur, contre ton sentiment,</l>
+	<l id="468">Ton c�ur a peu changer, et l�a fait justement.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="469">Ayant de mon ami m�pris� l�alliance</l>
+	<l id="470">J�ai bless� son honneur, avec ma conscience.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="471">J�ai seul �t� coupable, en te tyrannisant.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="472">Et moi j�ai seul �t� coupable, en t�abusant,</l>
+	<l id="473">Aussi le Ciel te venge, et te rend la Justice,</l>
+	<l id="474">Accordant � tes v�ux la chaste B�r�nice.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="475">Phalante, il m�est t�moin qu�elle serait � toi,</l>
+	<l id="476">Si tu m�eusses fait voir ton amour, et ta foi.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="477">De ma possession tu fais bien peu de conte :</l>
+	<l id="478">D�o� te vient, cher �poux, une froideur si prompte ?</l>
+	<l id="479">Ne peux tu t�moigner en cette occasion</l>
+	<l id="480">Ton z�le � ton ami, qu�� ma confusion ?</l>
+	<l id="481">Est-ce quelque soup�on, con�u sans apparence,</l>
+	<l id="482">Qui m�acquiert ce m�pris, et cette indiff�rence ?</l>
+	<l id="483">Depuis l�heureux moment que je suis dans ta Cour,</l>
+	<l id="484">Ai-je manqu� de foi, de respect, ou d�amour ?</l>
+	<l id="485">M�as-tu jamais trouv�e � tes d�sirs contraire ?</l>
+	<l id="486">Ai-je favoris� les desseins de mon p�re ?</l>
+	<l id="487">Me suis-je consol�e au bruit de ton tr�pas ?</l>
+	<l id="488">Non, non, mon cher �poux, j�allais suivre tes pas,</l>
+	<l id="489">Lorsque le juste Ciel pitoyable � mes larmes,</l>
+	<l id="490">A par son prompt retour dissip� mes alarmes.</l>
+	<l id="491">Sont-ce l� les transports, et les ravissements,</l>
+	<l id="492">Que tu devais, cruel, � mes ressentiments ?</l>
+	<l id="493">Mon c�ur � ton abord, n�esp�rait que caresses,</l>
+	<l id="494">Que soupirs, que baisers, qu�amoureuses tendresses ;</l>
+	<l id="495">Mais comme si d�j� tu te lassais de moi,</l>
+	<l id="496">Tu souhaites qu�une autre ait le poids de ta foi :</l>
+	<l id="497">Tu m�as dedans ton c�ur � Phalante c�d�e,</l>
+	<l id="498">Et te repens quasi de m�avoir poss�d�e.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="499">Re�ois mieux mes discours, et mes intentions,</l>
+	<l id="500">Reine de mes d�sirs, et de mes passions :</l>
+	<l id="501">Tu connais mon amour, et sais bien en ton �me</l>
+	<l id="502">Que pour toi je nourris une �ternelle flamme :</l>
+	<l id="503">Mais tu ne connais pas (� ma chaste moiti� !)</l>
+	<l id="504">Quels sont les doux transports d�une ardente amiti� :</l>
+	<l id="505">Toutefois tu connais la vertu de Phalante ;</l>
+	<l id="506">Et s�il te fit sentir une amour violente,</l>
+	<l id="507">Sache que l�amiti� que je vis na�tre ici,</l>
+	<l id="508">De son rare m�rite, est violente aussi.</l>
+	<l id="509">S�il m�eut en t�adorant d�couvert sa pens�e,</l>
+	<l id="510">(Je le dis librement, n�en sois point offens�e)</l>
+	<l id="511">Je ne l�eusse peu voir plaintif, et languissant,</l>
+	<l id="512">Dans les premiers acc�s de mon amour naissant.</l>
+	<l id="513">Puis donc qu�� son destin le mien fut si contraire,</l>
+	<l id="514">Plains avec moi sa perte, et l�aime comme fr�re.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="515">Oui, je le ch�rirai (puisqu�il te pla�t ainsi)</l>
+	<l id="516">D�un amour fraternel : mais qu�as-tu, mon souci ?</l>
+	<l id="517">D�une p�leur de mort je vois ta face peinte.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="518">Je me croyais frapp� d�une l�g�re atteinte,</l>
+	<l id="519">Mais le coup est plus grand que je n�avais pens�.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="520" part='i'>Qu�on cherche un prompt secours,</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="520" part='f'>Je me sens fort bless�.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="521" part='i'>Vite, les m�decins.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="521" part='f'>Ma plaie s�est ferm�e,</l>
+	<l id="522">Et je crois que la fl�che �tait envenim�e :</l>
+	<l id="523">De plus, toute la nuit j�ai fait de grands efforts,</l>
+	<l id="524">Pour me d�velopper d�un grand tas de corps morts,</l>
+	<l id="525">O� j�ai presque tout vif, trouv� ma s�pulture.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="526">Cela doit bien avoir augment� ta blessure ;</l>
+	<l id="527">Retire toi, mon fr�re, et sans plus de propos,</l>
+	<l id="528">Songe que ta sant� d�pend de ton repos.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SC�NE III. Iolante, Liliane.</head>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="529">Ne fais point la dolente, et la dissimul�e,</l>
+	<l id="530">Je sais que de nos maux ton �me est consol�e,</l>
+<note type="L">Mignon : signifie aussi favori, soit en mati�re d'amiti� soit d'amour. La plupart des princes ont des mignons, des favoris qui les gouvernent. Beaucoup de dames ont des mignons de couchette. (...) [F]</note>
+	<l id="531">Ton mignon est venu, l�objet de tes amours,</l>
+	<l id="532">Est ici pour toi seule, on te doit son secours :</l>
+	<l id="533">Il n�eut pour Iolas que des tendresses feintes,</l>
+	<l id="534">Toi seule, Liliane, as fait na�tre ses plaintes,</l>
+	<l id="535">Son feu pers�v�rant, ses transports amoureux,</l>
+	<l id="536">Et tu l��l�ves seule au rang des Bienheureux :</l>
+	<l id="537">Puisque notre salut d�pend de sa conduite,</l>
+	<l id="538">Prends piti� du malheur o� Tarente est r�duite :</l>
+	<l id="539">Montre � ce beau guerrier tes plus charmants appas,</l>
+	<l id="540">Caresse le ma s�ur, ne l�abandonne pas,</l>
+	<l id="541">Tu peux par tes faveurs animer son courage,</l>
+	<l id="542">Qui de nos maux pressants dissipera l�orage,</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="543">Le deuil te si�rait mieux que cette belle humeur ;</l>
+	<l id="544">Montre plus de prudence, en un age si m�r :</l>
+	<l id="545">Est-il temps de railler en si triste fortune ?</l>
+	<l id="546">Ta jalousie enfin se rend trop importune :</l>
+	<l id="547">N�irritons point Phalante il est notre support,</l>
+	<l id="548">Et de notre cher fr�re il veut venger la mort :</l>
+	<l id="549">Si le bonheur succ�de � sa honte entreprise,</l>
+	<l id="550">Il se souviendra bien que tu lui fus promise,</l>
+	<l id="551">Et te conservera cet �tat qu�il maintient,</l>
+	<l id="552">Et qui par droit d�a�nesse aujourd�hui t�appartient.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="553">Je ne veux rien tenir des mains de cet inf�me,</l>
+	<l id="554">Qui n�a point m�rit� de avoir pour sa femme :</l>
+	<l id="555">Ma s�ur tu connais mal ce l�che suborneur :</l>
+	<l id="556">Qui tend impudemment le pi�ge � ton honneur,</l>
+	<l id="557">Tu lui pr�tes l�oreille, et te tiens assur�e</l>
+	<l id="558">De la fid�lit� qu�il t�a cent fois jur�e :</l>
+	<l id="559">Mais il te trompera, cr�dule, et quelque jour,</l>
+	<l id="560">Tu maudiras le tra�tre, et son perfide amour.</l>
+	<l id="561">Son c�ur t�est plus cach� que sa naissance obscure,</l>
+	<l id="562">Je pr�vois de tes feux la fatale aventure ;</l>
+	<l id="563">Et ne puis m�emp�cher, t�aimant comme je fais,</l>
+	<l id="564">De te montrer l�erreur de tes v�ux indiscrets :</l>
+	<l id="565">Quelle est notre malheur, � tristes que nous sommes ?</l>
+	<l id="566">Esp�rer notre appui du plus abject des hommes ?</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SC�NE IV.</head>
+<sp who='ARONTE'><speaker>ARONTE, avec les Princesses.</speaker>
+	<l id="567">Mais Dieux ! Qu�Aronte est gai, qui l�am�ne en ces lieux ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="568">Mesdames tout vous rit, rendez gr�ces aux Dieux :</l>
+	<l id="569">Iolas de retour, a surpris la Princesse,</l>
+	<l id="570">Et dedans le Palais remplit tout d�all�gresse.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="571">Mon fr�re de retour ? Aronte, que dis tu ?</l>
+	<l id="572">Que tu rel�ves bien notre espoir abattu !</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="573">Mon fr�re vit encore ? Ah ! Je mourrai de joie,</l>
+	<l id="574">Mais l�as-tu vu toi-m�me ? Est-ce lui qui t�envoie ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="575">Je porte � nos soldats un ordre de sa part,</l>
+	<l id="576">Il est vivant, et sain ; hormis un coup de dard,</l>
+	<l id="577">Qui lui perce le bras ; maintenant il repose</l>
+	<l id="578">Selon mon jugement, son mal est peu de chose.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="579">As-tu point rencontr� Phalante avecque lui ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="580">J�ai su qu�il l�a surpris dans un exc�s d�ennui,</l>
+	<l id="581">Reprochant tendrement � sa chaste Princesse,</l>
+	<l id="582">Un manquement de foi, dont il eut la promesse.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="583">B�r�nice � Phalante avait donn� la foi ?</l>
+	<l id="584" part='i'>Tu te trompes ami.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="584" part='f'>Madame excusez moi,</l>
+	<l id="585">Il n�est bruit au Palais, que de cette nouvelle ;</l>
+	<l id="586">Mais il est temps d�aller, o� mon ordre m�appelle.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="587">H� bien, Fille cr�dule, as-tu l�esprit content</l>
+	<l id="588">De ce beau cavalier, si z�l�, si constant ?</l>
+	<l id="589">Veux-tu de sa franchise une preuve plus claire ?</l>
+	<l id="590">Ce g�n�reux Amant ne songe qu�� te plaire,</l>
+	<l id="591">Il n�adore que toi sans doute, et ta beaut�</l>
+	<l id="592">Est l�objet et le prix de sa fid�lit� ?</l>
+</sp>
+<sp who='LILIANE'><speaker>LILIANE, en elle-m�me.</speaker>
+	<l id="593">L�Ingrat jusqu�� ce point m�aurait-il m�pris�e ?</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="594">Apr�s tout j�ai regret de te voir abus�e ;</l>
+	<l id="595">Et je m��tonne bien qu�ayant vu son m�pris,</l>
+	<l id="596">Avecque moi d�abord tu ne l�as pas compris :</l>
+	<l id="597">S�il eut �t� fid�le � ton rare m�rite,</l>
+	<l id="598">T�aurait-il pas rendu la premi�re visite ?</l>
+	<l id="599">T�aurait-il pas montr� que l��clat de tes yeux</l>
+	<l id="600">Aurait seul attir� ses armes dans ces lieux ?</l>
+	<l id="601">Mais tu sais qu�au contraire il a vu B�r�nice,</l>
+	<l id="602">Qu�il a bien su tromper, par un m�me artifice :</l>
+	<l id="603">Je l�aper�ois qui vient t�abuser � ton tour :</l>
+	<l id="604">Je lui quitte la place, accepte son amour ;</l>
+	<l id="605">Il se repentira, sit�t qu�il t�aura vue,</l>
+	<l id="606">Ne crains plus rien, ma s�ur, B�r�nice est pourvue.</l>
+</sp>
+<sp who='LILIANE'><speaker>LILIANE.</speaker>
+	<l id="607">Le fuirai-je ? Ah ! mon c�ur, ce volage me pla�t,</l>
+	<l id="608">Et tu le veux aimer, tout inconstant qu�il est.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SC�NE V. Phalante, Liliane.</head>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="609">Puisque les justes Cieux ont entendu mes plaintes,</l>
+	<l id="610">Que le retour du Prince a dissip� mes craintes,</l>
+	<l id="611">Que tout rit, et succ�de � mes esprits contents,</l>
+	<l id="612">Il ne manque plus rien au bonheur que j�attends ;</l>
+	<l id="613">Sinon d�apprendre ici, Princesse que j�adore,</l>
+	<l id="614">Si dans vos belles mains mon c�ur demeure encore,</l>
+	<l id="615">Et si certainement vous ne d�daignez pas</l>
+	<l id="616">Cet esclave d�amour, qui meurt pour vos appas.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="617">Si tu ne te sentais extr�mement coupable,</l>
+	<l id="618">Ce c�ur qui s�est trouv� d�inconstance capable,</l>
+	<l id="619">Sachant comme autrefois il me fut pr�cieux,</l>
+	<l id="620">Et comme je l�aimais � l��gal de mes yeux,</l>
+	<l id="621">Tu n�en requerrais pas un nouveau t�moignage,</l>
+	<l id="622">Et me tiendrais, Phalante, un tout autre langage :</l>
+	<l id="623">Non, non, n�abuse plus de ma simplicit�,</l>
+	<l id="624">Je connais ta faiblesse, et ta leg�ret� :</l>
+	<l id="625">Je sais que ton discours, tout rempli d�artifice,</l>
+	<l id="626">Aussi bien que ton c�ur, s�adresse � B�r�nice ;</l>
+	<l id="627">Et que des doux liens qui nous devaient unir,</l>
+	<l id="628">Tu conserves � peine un triste souvenir.</l>
+	<l id="629">Ingrat, que t�ai-je fait, pour t�obliger au change ?</l>
+	<l id="630">Si je n�ai m�rit� l�exc�s de ta louange,</l>
+	<l id="631">Quand tu m�as exalt�e au dessus des flambeaux,</l>
+	<l id="632">Qu�on voit para�tre au Ciel, si luisants, et si beaux ;</l>
+	<l id="633">Au moins, c�ur infid�le, au moins suis-je certaine,</l>
+	<l id="634">Que je n�ai m�rit� ton m�pris, ni ta haine :</l>
+	<l id="635">Je t�ai toujours gard� ce que je t�ai promis,</l>
+	<l id="636">Autant que sans faillir l�honneur me l�a permis :</l>
+	<l id="637">Je n�ai rien eu que toi de cher � la pens�e,</l>
+	<l id="638">�me ingrate, et parjure ; et tu m�as d�laiss�e ?</l>
+	<l id="639">Je sais que B�r�nice a plus d�attraits que moI,</l>
+	<l id="640">Mais elle a moins d�amour, mais elle a moins de foi :</l>
+	<l id="641">Tu l�adores pourtant, cruel, pour ce qu�il semble,</l>
+	<l id="642">Qu�elle a l�humeur l�g�re, et qu�elle te ressemble :</l>
+	<l id="643">N�irrite point le Ciel par un nouveau serment</l>
+	<l id="644">De ta fid�lit�, je sais ton changement :</l>
+	<l id="645">Je sais ton inconstance, et je te la pardonne,</l>
+	<l id="646">Pourvu qu�au premier feu ton �me s�abandonne ;</l>
+	<l id="647">Et que te repentant, tu veuilles m�assurer</l>
+	<l id="648">D�un amour sans reproche, et qui puisse durer.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="649">Ma ch�re Liliane, h�las ! Puis-je sans honte,</l>
+	<l id="650">(Ayant de ta beaut� tenu si peu de compte)</l>
+	<l id="651">T�appeler mienne encore, et si je te promets,</l>
+	<l id="652">D��tre tien, pourras tu me croire d�sormais ?</l>
+	<l id="653">Ta bont� toutefois m�en donnant la licence,</l>
+	<l id="654">Je mets tout de nouveau ce c�ur en ta puissance ;</l>
+	<l id="655">Qui confus de sa honte, et de son peu de foi,</l>
+	<l id="656">Avecque repentir s�accuse devant toi.</l>
+	<l id="657">J�ai failli, je l�avoue, et je sais que mon crime,</l>
+	<l id="658">N�a point devant tes yeux d�excuse l�gitime :</l>
+	<l id="659">Quand ils n�eussent pas eu de quoi me retenir,</l>
+	<l id="660">J�av�is promis la foi, je la devais tenir :</l>
+	<l id="661">J�atteste le Soleil, l�Amour, et la Nature,</l>
+	<l id="662">Que j�ai toujours dans l��me abhorr� le parjure ;</l>
+	<l id="663">Et que je ne vois rien qui me soit odieux,</l>
+	<l id="664">Comme un c�ur divis�, qui soupire en deux lieux :</l>
+	<l id="665">Cependant je sens bien dessus ma conscience,</l>
+	<l id="666">Que par une secr�te, et fatale influence,</l>
+	<l id="667">Dont j�ignore la cause, on me trouve aujourd�hui,</l>
+	<l id="668">Coupable du p�ch� que je bl�me en autrui :</l>
+	<l id="669">B�r�nice apr�s toi m�a pris, je le confesse,</l>
+	<l id="670">Et partout o� je vois cette rare Princesse,</l>
+	<l id="671">Je palis, je languis, je meurs pour ses appas,</l>
+	<l id="672">Je redoute leur force, et ne m�en d�fends pas :</l>
+	<l id="673">Je jure toutefois par tes yeux que j�adore,</l>
+	<l id="674">Qu�au travers de ce feu je te regarde encore,</l>
+	<l id="675">Comme l�objet divin, qui captive mes sens,</l>
+	<l id="676">Par des ressors cach�s, et toutefois puissants.</l>
+	<l id="677">Bref je crois qu�en l�aimant je puis t��tre fid�le,</l>
+	<l id="678">Et m�attacher � toi, sans me s�parer d�elle.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="679">Et tu n�es pas volage, et perfide en ce point ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="680">Mon �me, assure toi que je ne le suis point.</l>
+	<l id="681">Je sens pour B�r�nice une innocente flamme,</l>
+	<l id="682">Dont l�ardeur pure et sainte �chauffe bien mon �me,</l>
+	<l id="683" part='i'>Mais ne la peut corrompre.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="683" part='f'>Inconstant, que dis-tu ?</l>
+	<l id="684">Que cette extravagance alt�re ta vertu !</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="685">Tu veux approfondir un secret que j�ignore ;</l>
+	<l id="686">Mon c�ur, contente toi qu�en l�aimant je t�adore ;</l>
+	<l id="687">Et pour bannir de toi ces soup�ons superflus,</l>
+	<l id="688">Si je puis d�sormais, je ne la verrai plus.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="689">Non, non, vois sa beaut�, puisqu�elle te contente,</l>
+	<l id="690">Pourvu que ton amour r�ponde � mon attente :</l>
+	<l id="691">Sois libre en tes d�sirs, ne te contrains pas tant,</l>
+	<l id="692">Je t�estime fid�le, et je t�aime inconstant :</l>
+	<l id="693">B�r�nice me pla�t, d�autant qu�elle t�est ch�re,</l>
+	<l id="694">Et je la veux servir, afin de te complaire ;</l>
+	<l id="695">Je ne la puis plus voir d�un �il triste et jaloux,</l>
+	<l id="696">Sachant de quelle ardeur tu ch�ris son �poux :</l>
+	<l id="697">Aime la, cher Amant, et j�aurai trop de gloire,</l>
+	<l id="698">Que mon feu se conserve encore en ta m�moire,</l>
+	<l id="699">Et qu�au d�faut d�une autre, � qui tout doit c�der,</l>
+	<l id="700">Je puisse ton amour, et ta foi poss�der :</l>
+	<l id="701">Mais Phalante, le mal de mon fr�re m�effraye,</l>
+	<l id="702">Et je crains que la mort ne se cache en sa plaie.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="703">L�appareil te fera juger plus sainement.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="704">Conduis moi, s�il te pla�t, vers son appartement.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='2'><head>ACTE III</head>
+<div2 type='scene' n='1'><head>SC�NE I. Les M�decins, Iolas, B�r�nice.</head>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="705">Ne me d�guisez point ce qu�il faut que je sache ;</l>
+	<l id="706">Je connAis mon malheur, en vain on me le cache,</l>
+	<l id="707">Et je suis r�solue � tout �v�nement.</l>
+</sp>
+<sp who='LE CHIRURGIEN'><speaker>LE CHIRURGIEN.</speaker>
+	<l id="708">Que sert de la flatter ? Parlons lui franchement.</l>
+</sp>
+<sp who='LE M�DECIN'><speaker>LE MEDECIN, se tournant vers la Princesse.</speaker>
+	<l id="709">Madame, tout va mal, la fl�che envenim�e</l>
+	<l id="710">A perdu tout son bras, la gangr�ne est form�e,</l>
+	<l id="711">Le Prince est bien malade, on fait un vain effort ;</l>
+	<l id="712">Notre art ne le saurait garantir de la mort :</l>
+	<l id="713">Nous ne vous pouvons plus flatter en conscience,</l>
+	<l id="714">Songez � votre �tat, et prenez patience.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="715" part='i'>� Dieux ! � justes Dieux !</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="715" part='f'>Amis, je comprends bien,</l>
+	<l id="716">Qu�en mon mal sans rem�de on n�esp�re plus rien.</l>
+	<l id="717">Vous le cachez en vain, je lis sur vos visages</l>
+	<l id="718">De la fin de mes jours les funestes pr�sages ;</l>
+	<l id="719">Et je m��tonne fort, que connaissant ce c�ur,</l>
+	<l id="720">De qui nul accident ne fut jamais vainqueur,</l>
+	<l id="721">Vous me cachiez la mort, et certaine, et connue,</l>
+	<l id="722">Comme si j��tais homme � craindre sa venue.</l>
+	<l id="723">Si son visage affreux ne m�a jamais troubl�,</l>
+	<l id="724">Et si devant sa faux je n�ai jamais trembl�,</l>
+<note type="L">Bellone : Dieu qui personnifie la guerre et accompagne Mars.</note>
+	<l id="725">Quand je l�ai vu rougir tous les champs de Bellonne,</l>
+<stage>Ici les M�decins s�en vont.</stage>
+	<l id="726">Pensez vous qu�en ce lieu sa pr�sence m��tonne ?</l>
+	<l id="727">Puisque l�arr�t du Sort ne se peut divertir,</l>
+	<l id="728">Si mon jour est venu, si je suis pr�t � partir,</l>
+	<l id="729">Et sachez qu�Iolas sent approcher ce terme,</l>
+	<l id="730">D�un visage constant, et d�un courage ferme.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="731">Ce jour n�est pas si prompt, mon �me, esp�re mieux</l>
+	<l id="732">Des forces de ton �ge, et du secours des Cieux ;</l>
+	<l id="733">Si le Sort aujourd�hui disposait de ta vie,</l>
+	<l id="734">Ta fin serait bient�t de la mienne suivie.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="735">N�attendris point mon c�ur, en l��tat ou je suis,</l>
+	<l id="736">Tu vois bien que mes pleurs naissent de tes ennuis :</l>
+	<l id="737">N�obscurcis point mes yeux de ce triste nuage,</l>
+	<l id="738">Au moment qui me reste � voir ton beau visage.</l>
+	<l id="739">C�est pour ta beaut� seule, et pour ton seul amour,</l>
+	<l id="740">Que je quitte � regret la lumi�re du jour :</l>
+	<l id="741">Fais donc que de ma mort ton �me se console,</l>
+	<l id="742">Si tu veux que la mienne en libert� s�envole.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="743">Quoi ! mon c�ur, d�un �il sec je verrais ton tr�pas ?</l>
+	<l id="744">Je te verrais mourir, et je ne mourrais pas ?</l>
+	<l id="745">Penses-tu qu�apr�s toi B�r�nice demeure ?</l>
+	<l id="746">Non, non, mon cher �poux le Ciel veut que je meure,</l>
+	<l id="747">Je me croirais sans c�ur, et sans ressentiment,</l>
+	<l id="748">Si je te survivais d�une heure seulement,</l>
+	<l id="749">L�Amour conclut ma mort, la Raison l�autorise,</l>
+	<l id="750">Pour toi j�aime le jour, sans toi je le m�prise.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="751">Si mon c�ur d�un n�ud ferme au tien se trouve joint,</l>
+	<l id="752">Crois, tant que tu vivras, que je ne mourrai point :</l>
+	<l id="753">Conserve donc, mon �me, en cette d�partie,</l>
+	<l id="754">De ton �poux mourant la meilleure partie :</l>
+	<l id="755">Souffre qu�en toi je vive ; et juste en ta piti�,</l>
+	<l id="756">Fais durer d�Iolas la plus belle moiti� :</l>
+	<l id="757">Le Ciel, pour te payer de ton amour extr�me,</l>
+	<l id="758">Te destine aujourd�hui pour un autre moi-m�me :</l>
+	<l id="759">Mon Phalante t�adore, il te le faut choisir,</l>
+	<l id="760">Nous ne faisons qu�un c�ur, qu�une �me, et qu�un d�sir ;</l>
+<stage>Ici Phalante para�t.</stage>
+	<l id="761">En lui tu m�aimeras, et dans ces chastes flammes,</l>
+	<l id="762">Tu feras subsister l�union des trois �mes :</l>
+	<l id="763">Cet ami g�n�reux s�offre tout � propos,</l>
+	<l id="764">Vis pour lui, si tu veux que je meure en repos.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="765">Quoi, mon cher Iolas, ta perte est manifeste ?</l>
+	<l id="766">Rien ne s�offre � mes yeux, qui ne me soit funeste.</l>
+	<l id="767">Le d�sespoir me suit, un exc�s de malheurs</l>
+	<l id="768">Emprisonne mes sens, d�ennuis et de douleurs ;</l>
+	<l id="769">Et dans cette cruelle et fatale journ�e,</l>
+	<l id="770">Tu voudrais disposer mon c�ur � l�Hymen�e ?</l>
+	<l id="771">Non, non, puisque nos jours n�ont qu�un m�me flambeau,</l>
+	<l id="772">Il faut que B�r�nice �pouse le tombeau.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="773">Si tu nourris en toi cette cruelle envie,</l>
+	<l id="774">Et si tu parles plus d�attenter � ta vie,</l>
+	<l id="775">Sache que ton �poux mourra d�sesp�r�,</l>
+	<l id="776">Dont tu peux �tablir le repos assur�.</l>
+	<l id="777">D�truire de nos Dieux le plus parfait ouvrage !</l>
+	<l id="778">D�faire un tel chef-d��uvre ? Ah ! Quelle aveugle rage !</l>
+	<l id="779">Parle mieux, ma D�esse, et songe que les Dieux</l>
+	<l id="780">Sentent de ces discours les traits injurieux.</l>
+	<l id="781">Je sais combien mon sort sensiblement te touche,</l>
+	<l id="782">Je lis dedans ton c�ur ce qu�exprime ta bouche.</l>
+	<l id="783">C�de donc � ton deuil, regrette mon tr�pas,</l>
+	<l id="784">Pleure moi, si tu veux, mais ne me bl�me pas :</l>
+	<l id="785">Voici, ch�re moiti�, qui mon d�faut r�pare ;</l>
+	<l id="786">Ce g�n�reux ami, si constant, et si rare,</l>
+	<l id="787">Qui t�a d�j� donn� des preuves de sa foi,</l>
+	<l id="788">Occupera ma place, il t�aime autant que moi ;</l>
+	<l id="789">S�il me reste sur toi quelque ombre de puissance,</l>
+	<l id="790">Si jamais ton esprit aima l�ob�issance,</l>
+	<l id="791">Donne m�en cette preuve, et d�un v�u solennel,</l>
+	<l id="792">Promets � ton Phalante un amour �ternel ;</l>
+	<l id="793">Si je te vois r�pondre � sa flamme amoureuse,</l>
+	<l id="794">Mon �me de ce corps partira bienheureuse,</l>
+	<l id="795" part='i'>Autrement.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="795" part='m'>Mon d�sir ?</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="795" part='f'>Ne me r�plique point.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SC�NE II. B�r�nice, Phalante, Iolas, Iolante.</head>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="796">Comment veux-tu que j�aime, en ce funeste point</l>
+	<l id="797" part='i'>O� je me vois r�duite ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="797" part='f'>Eh ! Mon fr�re, de gr�ce,</l>
+	<l id="798">Ne force point ce c�ur, que ta perte menace,</l>
+	<l id="799">Et ne me prouve point ta parfaite amiti�,</l>
+	<l id="800">Aux d�pends de ta chaste et fid�le moiti�.</l>
+	<l id="801">Puis que je sens son mal, plus que ma peine m�me,</l>
+	<l id="802">P�n�tre dans mon �me, et juge si je l�ayme :</l>
+	<l id="803">Mais las ! Comment veux-tu, quand tu quittes le jour,</l>
+	<l id="804">Que parmi tant d�ennuis nous songions � l�amour ?</l>
+	<l id="805">Crois tu mourir sans moi ? Tu ne peux ce me semble ;</l>
+	<l id="806">Marche quand tu voudras ; nous partirons ensemble.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="807">Qui du fier Calabrais vengerait l�attentat ?</l>
+	<l id="808">Qui sauveraient mes s�urs, ma femme, et mon �tat ?</l>
+	<l id="809">Non, demeure apr�s moi, tu m�offenses, mon fr�re,</l>
+	<l id="810">En m�prisant ta vie, elle m�est n�cessaire ;</l>
+	<l id="811">Et ton Roi, dont l�appui consiste en ta valeur,</l>
+	<l id="812">Maudirait ma m�moire, en pleurant ton malheur :</l>
+	<l id="813">Vis doncques pour sa gloire, autant que pour la mienne,</l>
+	<l id="814">Et conserve sa vie, en conservant la tienne :</l>
+	<l id="815">Que si tu me veux plaire en cette extr�mit�,</l>
+	<l id="816">O� tu vois de mes jours le terme limit� ;</l>
+	<l id="817">Et si vous d�f�rez tous deux � ma pri�re,</l>
+	<l id="818">�coute d�Iolas la volont� derni�re ;</l>
+	<l id="819">Puisque ma B�r�nice autrefois t�a charm� ;</l>
+	<l id="820">Et puisque tu fus d�elle amant, et bien-aim�,</l>
+	<l id="821">Je rallume en vos c�urs cette premi�re flamme ;</l>
+	<l id="822">Prends le pour ton �poux, re�ois la pour ta femme ;</l>
+	<l id="823">Au moins si vous voulez que mes v�ux soient parfaits,</l>
+	<l id="824">Et s�il vous pla�t de voir mes m�nes satisfaits :</l>
+</sp>
+<sp who='IOLANTE'><speaker>IOLANTE, en elle-m�me.</speaker>
+	<l id="825">Que ces discours du mal dont je me sens atteinte,</l>
+	<l id="826">Augmentent la douleur, et redoublent ma crainte !</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="827">R�sistez vous encore � mon contentement ?</l>
+	<l id="828">Ne me r�pondez vous que des yeux seulement ?</l>
+	<l id="829">C�est fait, vous consentez, ce silence m�arr�te,</l>
+	<l id="830">Et ces beaux yeux mouill�s, m�accordent ma requ�te.</l>
+	<l id="831">Est-il pas vrai, mon c�ur ? Ne te r�sous-tu pas ?</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE, en elle-m�me.</speaker>
+	<l id="832">� mourir, � te suivre, � marcher sur tes pas,</l>
+	<l id="833">Avant que je consente, et que l�ob�issance</l>
+	<l id="834">Me porte � cette l�che, et dure complaisance.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="835" part='i'>H�las !</l>
+</sp>
+<sp who='IOLANTE'><speaker>IOLANTE, en elle-m�me.</speaker>
+	<l id="835" part='m'>Le c�ur me fend.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="835" part='f'>Pourquoi me c�des-tu</l>
+	<l id="836">Ce tr�sor accompli d�amour, et de vertu ?</l>
+	<l id="837">Qui suivra comme moi ta mort in�vitable ?</l>
+</sp>
+<sp who='IOLANTE'><speaker>IOLANTE, en elle-m�me.</speaker>
+	<l id="838">� la belle alliance ! � le parti sortable !</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="839">J�oblige peu Phalante, en lui voulant c�der</l>
+	<l id="840">Un tr�sor que mon c�ur ne peut plus poss�der :</l>
+	<l id="841">Ne parle pas ainsi, mon fr�re, tu m�affliges ;</l>
+	<l id="842">Et pense, en l�acceptant, que c�est toi qui m�obliges.</l>
+	<l id="843">Mais pour accompagner ce pr�sent qui te pla�t,</l>
+	<l id="844">Je te donne mon bien, engag� comme il est,</l>
+	<l id="845">Sachant que ta valeur, � qui tout fait hommage,</l>
+	<l id="846">R�parera bient�t ma perte, et mon dommage.</l>
+</sp>
+<sp who='IOLANTE'><speaker>IOLANTE, en elle-m�me.</speaker>
+	<l id="847" part='i'>� Dieux !</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="847" part='f'>Re�ois ma femme, et mes �tats aussi,</l>
+	<l id="848">Pourvu que de mes s�urs tu prennes le souci :</l>
+	<l id="849">Fais-les de ta moiti� les compagnes fid�les,</l>
+	<l id="850">Et leur procure encor des partis dignes d�elles :</l>
+	<l id="851">Sus, sus, ratifions et l�un et l�autre accord,</l>
+	<l id="852">Je veux que le contrat s�en fasse avant ma mort ;</l>
+	<l id="853">Ne perdons point le temps, l�affaire est r�solue,</l>
+	<l id="854">Et je la veux passer de puissance absolue.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SC�NE III.</head>
+<sp who='IOLANTE'><speaker>IOLANTE, seule.</speaker>
+<stage>On tire le rideau devant la chambre.</stage>
+	<l id="855">Quoi cet homme inconnu, que j�abhorre sur tous</l>
+	<l id="856">Sera ma�tre absolu de nos biens, et de nous ?</l>
+	<l id="857">Tarante subira le joug de cet inf�me ?</l>
+	<l id="858">Mon fr�re peut encor disposer de sa femme,</l>
+	<l id="859">Mais il ne saurait pas disposer de mon bien ;</l>
+	<l id="860">Je m�y veux opposer, non il n�en sera rien ;</l>
+	<l id="861">Avant qu�il puisse voir sa volont� suivie,</l>
+	<l id="862">Et qui m��te l��tat, il m��tera la vie :</l>
+	<l id="863">C�est prendre avec grand soin l�int�r�t de sa s�ur,</l>
+	<l id="864">C�est choisir de sa gloire un digne successeur,</l>
+<note type="C">Il manque un vers. Ce vers est absent dans l�exemplaire de la Biblioth�que Nationale comme dans celui de l�Arsenal.</note>
+	<l id="865">C�est faire un bel honneur � son illustre race,</l>
+	<l id="866">............................................</l>
+<stage>Liliane sort.</stage>
+	<l id="867">Mais j�aper�ois ma s�ur, il la faut avertir</l>
+	<l id="868">Du mal qui nous menace, et qu�elle doit sentir ;</l>
+	<l id="869">Il faut l�int�resser dans ma juste vengeance,</l>
+	<l id="870">Et par elle � mes maux chercher quelque all�geance.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SC�NE IV. Liliane, Iolante.</head>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="871">Ah ! ǒen est fait, ma s�ur, nous perdons Iolas.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="872">Nous perdons plus encor, nous perdons ses �tats :</l>
+	<l id="873">Je ne le puis pleurer parmi tant d�injustice,</l>
+	<l id="874">Il vient de tout donner, avec sa B�r�nice,</l>
+	<l id="875">� son ami Phalante ; et ce beau suborneur,</l>
+	<l id="876">Triomphe de nos biens, comme de notre honneur.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="877">Ah ! Ma s�ur, que dis-tu ? Tu leur fais une injure,</l>
+	<l id="878">Et ton discours trop libre offense la Nature.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="879">Je dis ce que mes yeux seulement m�ont appris,</l>
+	<l id="880">Et j�eusse � peine cru d�un autre ce m�pris :</l>
+	<l id="881">Iolas � ma perte, aussi bien qu�� ta honte,</l>
+	<l id="882">(Charm� des faux appas d�un tra�tre qui l�affronte)</l>
+	<l id="883">Lui vient devant mes yeux, de tenir ce discours :</l>
+	<l id="884">Cher ami, qui me vois � la fin de mes jours,</l>
+	<l id="885">Si tu veux que content je parte de ce monde,</l>
+	<l id="886">Reprends ce cher objet, qui ta flamme seconde ;</l>
+	<l id="887">Je te donne ma femme, et mes �tats aussi,</l>
+	<l id="888">Pourvu que de mes s�urs tu prennes le souci ;</l>
+	<l id="889">Fais-les de ta moiti� les compagnes fid�les,</l>
+	<l id="890">Et leur procure encor des partis dignes d�elles.</l>
+	<l id="891">Ils ont feint quelque temps tous deux d�y r�sister,</l>
+	<l id="892">Mais qu�enfin, pour lui plaire ils voulaient l�accepter.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="893">Ah ! Ma s�ur, puis-je croire une telle disgr�ce ?</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="894">Entre, si tu veux voir le contrat qui s�en passe :</l>
+	<l id="895">Mais avant qu�on le suive, et que contre nos lois</l>
+	<l id="896">Il soit effectu�, je mourrai mille fois :</l>
+	<l id="897">Si pour rompre ce coup, nous nous liguons ensemble,</l>
+	<l id="898">Nous l�emp�cherons bien ; dis moi ce qui t�en semble :</l>
+	<l id="899">Iolas, et Phalante, injustes contre nous,</l>
+	<l id="900">Ont tous deux excit� notre juste courroux ;</l>
+	<l id="901">Si l�un nous tyrannise, et nous fait une injure,</l>
+	<l id="902">L�autre est tra�tre partout, infid�le, et parjure ;</l>
+	<l id="903">Vengeons nous, Liliane, en sauvant notre bien.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="904" part='i'>Quel rem�de, et comment ?</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+<stage>Elle la tire � part.</stage>
+	<l id="904" part='f'>J�en sais bien le moyen</l>
+	<l id="905">Livrons dans cette nuit notre ville afflig�e,</l>
+	<l id="906">Au pouvoir de ce Duc, qui la tient assi�g�e :</l>
+	<l id="907">C�est un g�n�reux Prince, et j�estime en effet,</l>
+	<l id="908">Quand il saura l�outrage, et le tort qu�on nous fait,</l>
+	<l id="909">Qu�il ne se servira d�un si bel avantage,</l>
+	<l id="910">Que pour nous r�tablir dedans notre h�ritage.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="911">Dieux ! Que proposes-tu ? Ce discours plein d�horreur,</l>
+	<l id="912">Ne part que d�un esprit agit� de fureur ;</l>
+	<l id="913">Ce rem�de, ma s�ur, blesse ma conscience,</l>
+	<l id="914">Il est trop violent, donne toi patience,</l>
+	<l id="915">Peut �tre que le Ciel, par des ressorts cach�s,</l>
+	<l id="916">D�tournera ces maux qu�attirent nos p�ch�s.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="917">� faible et l�che esprit ! � c�ur tout plein de glace !</l>
+	<l id="918">Que tu m�rites bien le coup qui te menace !</l>
+	<l id="919">Puis que ce feu te pla�t, et puis qu�aveugl�ment</l>
+	<l id="920">Amour te pr�cipite en cet embrasement,</l>
+	<l id="921">Je t�y laisse p�rir ; pour moi je m�en d�livre :</l>
+	<l id="922">Mais songe encore un coup que tu devrais me suivre ;</l>
+	<l id="923">La ville est en mes mains, j�ai d�j� regard�</l>
+	<l id="924">Vers l�endroit le plus faible, et le plus mal gard� ;</l>
+	<l id="925">De qui les assi�geant n�ont point de connaissance ;</l>
+	<l id="926">Le Duc dans cette nuit, l�aura sous sa puissance.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="927">Eh ! De gr�ce, ma s�ur, ne t�abandonne pas</l>
+	<l id="928" part='i'>Aux coups du d�sespoir ;</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="928" part='f'>Que ton courage est bas !</l>
+	<l id="929">Pense que si j�outrage, on m�outrage de m�me,</l>
+	<l id="930">Qu�� mon extr�me mal mon rem�de est extr�me ;</l>
+	<l id="931">Et que c�est l�chet�, qui t�oblige � c�der,</l>
+	<l id="932">� celui qui travaille � nous d�poss�der :</l>
+	<l id="933">Il faut avant le jour, que ma vengeance �clate,</l>
+	<l id="934">Et je con�ois d�j�, dans l�espoir qui me flatte,</l>
+	<l id="935">Qu�il n�en peut arriver qu�un succ�s tr�s heureux,</l>
+	<l id="936">Car toujours la Fortune aide aux c�urs g�n�reux :</l>
+	<l id="937">Pour toi, suis ce mignon, auteur de ta ruine,</l>
+	<l id="938">R�sous toi d�sormais d��tre sa concubine :</l>
+	<l id="939">B�r�nice est d�j� femme du suborneur ;</l>
+	<l id="940">Je me vengerai seule, et j�en aurai l�honneur.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SC�NE V. Liliane, Carinte.</head>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="941">Iolante, ma s�ur, o� va cette insens�e ?</l>
+	<l id="942">D�tournez, justes Dieux, sa cruelle pens�e,</l>
+	<l id="943">Qui dans le d�sespoir va se pr�cipiter ;</l>
+	<l id="944">D�tournez ce torrent, qu�on ne peut arr�ter :</l>
+	<l id="945">Carinte, de mon c�ur fid�le secr�taire,</l>
+	<l id="946">Qui vois mes d�plaisirs, qui connais ma mis�re ;</l>
+	<l id="947">Adouci par tes soins l�amertume et le fiel,</l>
+	<l id="948">Que vomit contre moi la col�re du Ciel :</l>
+	<l id="949">� tant de maux pressants cherche quelque rem�de,</l>
+	<l id="950">Soulage ma douleur, je r�clame ton aide.</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="951">Eh ! Madame, je meurs de vous voir affliger ;</l>
+	<l id="952">Que puis-je, pour vous plaire, et pour vous soulager ?</l>
+	<l id="953">Plut au ciel, qui conna�t mon c�ur, et mon envie,</l>
+	<l id="954">Que je vous pusse aider aux d�pens de ma vie.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="955">Tu peux, sans qu�il t�en co�te un soupir seulement,</l>
+	<l id="956">Vaincre mon infortune, et gu�rir mon tourment :</l>
+	<l id="957">Si tu n�as oubli� ce secret admirable,</l>
+	<l id="958">Qui du plus fort venin, et du plus incurable,</l>
+	<l id="959">An�antit la force ; ah ! Carinte, peux-tu</l>
+	<l id="960">Pour un sujet plus digne employer sa vertu ?</l>
+	<l id="961">Je sais bien que le suc de cette herbe divine,</l>
+	<l id="962">Des maux d�sesp�r�s porte la m�decine ;</l>
+	<l id="963">S�il arr�tait celui de mon fr�re mourant,</l>
+	<l id="964">Qu�on te devrait de v�ux ! Que ce coup serait grand !</l>
+	<l id="965">Je ne te c�le point, ma ch�re confidente,</l>
+	<l id="966">Que je soupire encore apr�s le beau Phalante ;</l>
+	<l id="967">Parmi tous ses d�fauts, son m�rite me pla�t,</l>
+	<l id="968">Je l�aime, tout volage, et tout ingrat qu�il est :</l>
+	<l id="969">En cette extr�mit� ton secours je r�clame,</l>
+	<l id="970">Si tu sauves mon fr�re, il gardera sa femme ;</l>
+	<l id="971">Et ce volage amant n�y pr�tendant plus rien,</l>
+	<l id="972">Retournera peut-�tre, � son premier lien :</l>
+	<l id="973">C�est de toi que d�pend l�honneur de la province ;</l>
+	<l id="974">Le bien de Liliane, et le salut du Prince.</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="975">S�ils d�pendent de moi, comme vous le jugez,</l>
+	<l id="976">Madame, c�est � tort, que vous vous affligez :</l>
+	<l id="977">Puisqu�ayant sur Carinte une enti�re puissance,</l>
+	<l id="978">Vous connaissez son z�le, et son ob�issance :</l>
+	<l id="979">Il est vrai qu�en mourant mon p�re m�a laiss�</l>
+	<l id="980">Ce souverain rem�de, et souvent exerc�,</l>
+	<l id="981">Qui d�truit du venin la qualit� mauvaise ;</l>
+	<l id="982">Pour subtil qu�il puisse �tre, aussit�t il l�apaise.</l>
+	<l id="983">La preuve en mille endroits, ne m�a jamais manqu�,</l>
+	<l id="984">Et quand j�ai de ce mal vu le Prince attaqu�,</l>
+	<l id="985">Madame, vous savez que je me suis offerte,</l>
+	<l id="986">Pour sauver � l��tat une si grande perte,</l>
+	<l id="987">Et que les M�decins, de ma gloire ennemis,</l>
+	<l id="988">Et jaloux de leur art, ne m�ont jamais permis</l>
+	<l id="989">D�employer mon rem�de ; ils m�ont tous rebut�e,</l>
+	<l id="990">Sit�t qu�� ce devoir je me suis pr�sent�e,</l>
+	<l id="991">Sans souffrir que j�entrasse avec eux en conseil,</l>
+	<l id="992">Lorsqu�ils ont appliqu� leur premier appareil,</l>
+	<l id="993">Ces pauvres ignorants ne se sont mis en peine,</l>
+	<l id="994">Que de penser le bras, et gu�rir la gangr�ne,</l>
+	<l id="995">Sans pr�voir que d�ailleurs le Prince �tait perdu,</l>
+	<l id="996">Car le poison subtil s�est partout �pandu ;</l>
+	<l id="997">Mon herbe toutefois, dont je sais la puissance,</l>
+	<l id="998">En deux heures lui peut donner toute all�geance,</l>
+	<l id="999">Nos esprits sur ce point seraient d�j� contents,</l>
+	<l id="1000">Si l�on m�eut laiss� faire, il en est encor temps.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1001">Quoi ? Tu peux emp�cher que mon fr�re ne meure ?</l>
+	<l id="1002">Un doux rayon d�espoir encore te demeure ?</l>
+	<l id="1003" part='i'>Tu le pourras gu�rir ?</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1003" part='f'>Oui, je vous le promets,</l>
+	<l id="1004">Si je ne le gu�ris, ne me voyez jamais :</l>
+	<l id="1005">Dans l�art des m�decins sa perte est r�solue,</l>
+	<l id="1006">Vous m�y pouvez mener de puissance absolue,</l>
+	<l id="1007">Et vous admirerez l�effet de mon secours,</l>
+	<l id="1008">Avant que cette nuit ait termin� son cours.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1009">Allons, si de l�effet ta parole est suivie,</l>
+	<l id="1010">Je te devrai les biens, et l�honneur, et la vie.</l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SC�NE VI. Carinte, Liliane, Aronte.</head>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1011">Mais il faut sur son mal Aronte consulter,</l>
+	<l id="1012">Puisqu�il sort de sa chambre, et vient de le quitter.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1013" part='i'>Eh bien, que fait mon fr�re ?</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1013" part='f'>Ah ! ǒen est fait, Madame,</l>
+	<l id="1014">Ce Prince glorieux, est pr�t de rendre l��me,</l>
+	<l id="1015">Ce venin �pandu fait partout son effort ;</l>
+	<l id="1016">Il n�attend plus au lit, que le coup de la mort ;</l>
+	<l id="1017">Phalante, que son dard d�un m�me coup menace,</l>
+	<l id="1018">Tout plein de d�sespoir, vient de quitter la place,</l>
+	<l id="1019">Ne se pouvant r�soudre � voir ainsi mourir,</l>
+	<l id="1020">Son g�n�reux ami, qu�il ne peut secourir :</l>
+	<l id="1021">La seule B�r�nice, entre ses bras p�m�e,</l>
+	<l id="1022">Demeure aupr�s de lui, de douleur consomm�e.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1023">� spectacle funeste ! Carinte, je meurs.</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<note type="L">Amuser : distraire, perdre.</note>
+	<l id="1024">Ne nous amusons point � d�inutiles pleurs ;</l>
+	<l id="1025">Surtout la diligence � nos soins est requise :</l>
+	<l id="1026">Ne perdons point de temps, en si belle entreprise.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='4'><head>ACTE IV</head>
+<div2 type='scene' n='1'><head>SC�NE I. Carinte, B�r�nice, Liliane.</head>
+<stage>Il se passe dans la nuit.</stage>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+<stage>Le page avec un flambeau.</stage>
+	<l id="1027">Quoi, vous �tes en doute encore sur ce point ?</l>
+	<l id="1028">Madame, il est gueri, non, non, n�en doutez point,</l>
+	<l id="1029" part='i'>Je connais mon rem�de.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="1029" part='f'>H�las ! est-il possible ?</l>
+	<l id="1030" part='i'>Croirai-je � ce miracle ?</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1030" part='f'>Il est assez visible ;</l>
+	<l id="1031" part='i'>Mon fr�re le confesse,</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="1031" part='f'>Et je crains toutefois ;</l>
+	<l id="1032">Carinte en as-tu fait l��preuve une autre fois ?</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1033">J�en ai fait cent, Madame, et toutes favorables/</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1034">Cette herbe a sans mentir, des vertus admirables.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="1035">Carinte mon espoir, d�lices de mes jours,</l>
+	<l id="1036">Qui de tous nos malheurs viens d�arr�ter le cours,</l>
+	<l id="1037">Qui viens de r�tablir mon repos et mon aise,</l>
+	<l id="1038">Que mille et mille fois je t�embrasse, et te baise.</l>
+	<l id="1039">Qu�eussions nous fait sans toi, qui nous as pr�serv�s,</l>
+	<l id="1040">En pr�servant le Prince, et nous a tous sauv�s ;</l>
+	<l id="1041">Par toi, de son salut na�t notre d�livrance ;</l>
+	<l id="1042">Tu fais revivre en lui, toute notre esp�rance,</l>
+	<l id="1043">Ma fid�le Carinte, ah ! Combien ta vertu</l>
+	<l id="1044">Rel�ve puissamment ce courage abattu !</l>
+	<l id="1045">La moiti� de mon c�ur, par tes mains m�est rendue,</l>
+	<l id="1046">Je te dois tout mon bien, sans toi j��tais perdue.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1047">Fille miraculeuse, on ne peut en effet</l>
+	<l id="1048">Reconna�tre un si digne, et si rare bienfait :</l>
+	<l id="1049">Nous te serons ingrats, ces faveurs sont trop grandes,</l>
+	<l id="1050">Il te faut des autels, il te faut des offrandes.</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1051">Ne flattez point mes sens par ces exc�s d�honneur,</l>
+	<l id="1052">Mesdames, c�est � vous qu�on doit tout ce bonheur,</l>
+	<l id="1053">Vous m�avez fait agir ; c�est par votre industrie,</l>
+	<l id="1054">Que je viens de sauver mon Prince, et ma patrie,</l>
+	<l id="1055">Et qu�un si beau laurier me couronne le front ;</l>
+	<l id="1056">Qui croirait que mon herbe eut un effet si prompt ?</l>
+	<l id="1057">La secr�te vertu d�une telle racine</l>
+	<l id="1058">Ne confond elle pas toute la m�decine ?</l>
+	<l id="1059">Mais ne vantez pas tant ce service rendu ;</l>
+	<l id="1060">J�ai l�honneur d��tre � vous, j�ai fait ce que j�ai d� ;</l>
+	<l id="1061">Vous prodiguez en moi votre reconnaissance,</l>
+<note type="L">Heur : rencontre avantageuse. (...) [F] [antonyme de malheur]</note>
+	<l id="1062">L�heur d�un si grand succ�s m�est trop de r�compense.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="1063">Je sais bien que ton c�ur, noble et grand comme il est,</l>
+	<l id="1064">En la seule vertu cherche son int�r�t :</l>
+	<l id="1065">Aussi pour te payer de ce bien-fait extr�me,</l>
+	<l id="1066">Je te fais seulement un pr�sent de moi-m�me.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1067">Re�ois mon c�ur encore, et dispose de moi,</l>
+	<l id="1068">Puisque tous nos tr�sors sont au dessous de toi ;</l>
+	<l id="1069">Et crois que je n�aurai, ni gloire, ni fortune,</l>
+	<l id="1070">Dans le cours de mes ans, qui ne te soit commune.</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1071">Je n�abuserai point d�un heur si pr�cieux ;</l>
+	<l id="1072">Jugeant que tout me vient de la faveur des Cieux ;</l>
+	<l id="1073">Mais songez qu�il est tard, g�n�reuse Princesse,</l>
+	<l id="1074">Apr�s tant de travail, de peine, et de tristesse ;</l>
+	<l id="1075">Puisqu�Iolas est pris des charmes du sommeil,</l>
+	<l id="1076">Allez dormir, au moins jusques � son r�veil.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="1077">Puisqu�en effet le Prince a la paupi�re close,</l>
+	<l id="1078">Et que notre esprit calme avec lui repose,</l>
+	<l id="1079">Je crois, ma ch�re s�ur, qu�il est bien � propos,</l>
+	<l id="1080">Qu�apr�s tant de travail nous prenions du repos :</l>
+	<l id="1081">Qu�on sache cependant qu�est devenu Phalante,</l>
+	<l id="1082">Sans qui mon Iolas n�a rien qui le contente :</l>
+	<l id="1083">Croyant son ami mort, il s�en est s�par� ;</l>
+	<l id="1084">Le c�ur tout plein d�angoisse, et tout d�sesp�r� :</l>
+	<l id="1085">Carinte, qu�on le cherche, et qu�on lui fasse entendre,</l>
+	<l id="1086">L�heur que sur nous le Ciel par tes mains vient d��pandre :</l>
+	<l id="1087">J�ai peur que mon �poux n�en soit inqui�t�,</l>
+	<l id="1088">Et le moindre accident peut nuire � sa sant� :</l>
+	<l id="1089" part='i'>Bonsoir, ma ch�re s�ur ;</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1089" part='f'>Bonsoir, belle Princesse ;</l>
+	<l id="1090" part='i'>Allez l�accompagner.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="1090" part='f'>Non, non, je vous la laisse,</l>
+	<l id="1091">Ce page me suffit, mon c�ur, demeure ici.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SC�NE II. Carinte, Liliane.</head>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1092">Disposez-vous, Madame, � reposer aussi ;</l>
+	<l id="1093">La nuit tant�t pass�e enfin vous y convie.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1094">Voici de qui j�attends mon repos, et ma vie.</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1095" part='i'>D�o� ?</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1095" part='f'>Le demandes-tu  ? Vois-tu pas mon amant ?</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1096" part='i'>Qu�il est p�le, et transi !</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1096" part='f'>Mais Dieu, qu�il est charmant !</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1097" part='i'>Il va revoir le Prince.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1097" part='f'>Il me suivra sans doute,</l>
+	<l id="1098">L�ingrat qui m�a manqu�, va prendre une autre route,</l>
+	<l id="1099">Pour ne pas soutenir les regards enflamm�s,</l>
+	<l id="1100">Des yeux qu�il a trahis, et qu�il a tant aim�s,</l>
+	<l id="1101">L�infid�le aura peur de leur juste reproche.</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1102">Madame, cependant le voil� qui s�approche.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1103" part='i'>Que dirons-nous, Carinte ?</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1103" part='f'>Assurons le d�abord,</l>
+	<l id="1104">Que le Prince est par nous garanti de la mort ;</l>
+	<l id="1105">Observant bien son c�ur, il faut qu�on l��claircisse,</l>
+	<l id="1106">Et qu�il perde l�espoir d��pouser B�r�nice.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SC�NE III. Liliane, Phalante, Carinte.</head>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1107">O� peut aller Phalante, ainsi triste et pensif ?</l>
+	<l id="1108">D�o� lui vient ce chagrin, et ce deuil excessif,</l>
+	<l id="1109">Lorsque tout est ravi d�un exc�s d�all�gresse ?</l>
+	<l id="1110">Ma rencontre peut-�tre a caus� sa tristesse ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+<note type="L">Occident : En po�sie, on dit que les jours d'un homme sont dans son occident ; pour dire qu'il est proche de sa fin. [F]</note>
+	<l id="1111">Quoi, les jours d�Iolas sont � leur occident</l>
+	<l id="1112">Madame, et l�on peut rire, en si triste accident ?</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1113">C�est de sa gu�rison que provient notre joie,</l>
+	<l id="1114">Prenez part au bonheur que le Ciel nous envoie.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1115">Nous l�avons cette nuit par nos soins pr�serv�,</l>
+	<l id="1116">Et tu devrais baiser la main qui l�a sauv�.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1117">H�las ! vous vous moquez ; la nouvelle est trop grande,</l>
+	<l id="1118">Pour �tre si t�t crue ; il faut que je me rende,</l>
+	<l id="1119">Pr�s du lit d�Iolas, pour �claircir ce point,</l>
+	<l id="1120">� moins que de le voir, je ne le croirai point.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1121">Quoi ? Je verrais la mort de mon fr�re assur�e,</l>
+	<l id="1122">Et je serais si l�che, et si d�natur�e,</l>
+	<l id="1123">Au lieu de le pleurer, au lieu de ressentir</l>
+	<l id="1124">Ses poignantes douleurs, de rire, et de mentir ?</l>
+	<l id="1125">Tu ne me crois donc pas, Phalante, et mes paroles</l>
+	<l id="1126">Passent dans ton esprit pour des contes frivoles ?</l>
+	<l id="1127">Ah cruel ! Je sens bien pourquoi tu ne veux pas,</l>
+	<l id="1128">Que mon fr�re par nous soit sauv� du tr�pas ;</l>
+	<l id="1129">C�est pour ce que sa mort t�assure B�r�nice,</l>
+	<l id="1130">Et tu crois qu�on te l��te avec cet artifice ;</l>
+	<l id="1131">Tu crois que je travaille � d�gager ta foi,</l>
+	<l id="1132">Va, tu n�aimas jamais ni mon fr�re ni moi :</l>
+	<l id="1133">Pour lui ton amiti� na�t d�une source inf�me,</l>
+	<l id="1134">Tu ne le caressais qu�� cause de sa femme,</l>
+	<l id="1135">Et tu nous as tous deux abus�s l�chement,</l>
+	<l id="1136">Faible et mauvais ami, tra�tre, et perfide amant.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1137">Excusez de mon c�ur l�innocente faiblesse,</l>
+	<l id="1138">Et ne vous f�chez pas, je vous crois ma Princesse.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1139">Tu fais un grand effort, je t�ai cru mille fois,</l>
+	<l id="1140">Quand par tes actions tu d�mentais ta voix,</l>
+	<l id="1141">Je n�ai point r�voqu� tes paroles en doute,</l>
+	<l id="1142">Quand ton c�ur les fuyait, pour suivre une autre route ;</l>
+	<l id="1143">Et tu doutes ingrat, de la sinc�rit�</l>
+	<l id="1144">De mes propos na�fs, et pleins de v�rit� ?</l>
+	<l id="1145">Tant�t avec des pleurs, coulants par artifice,</l>
+	<l id="1146">Tu jurais que pour moi tu fuirais B�r�nice,</l>
+	<l id="1147">Volage, et tu t�es pris dans les m�mes appas,</l>
+	<l id="1148">D�o� tu me promettais de d�tourner tes pas :</l>
+	<l id="1149">Pourquoi m�as-tu tromp�e, infid�le et parjure ?</l>
+	<l id="1150">Crains tu point que les Dieux ne vengent mon injure ?</l>
+	<l id="1151">Prierai-je pour celui qui m�a voulu trahir ?</l>
+	<l id="1152">Oui, tout ingrat qu�il est, je ne le puis ha�r :</l>
+	<l id="1153">S�il s�est contre sa foi promis � B�r�nice,</l>
+	<l id="1154">C�est par l�g�ret�, plut�t que par malice :</l>
+	<l id="1155" part='i'>Je veux croire qu�il m�aime.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1155" part='f'>Ah ! Cruelle, en ce point</l>
+	<l id="1156">Tu m�estimes coupable, et je ne le suis point :</l>
+	<l id="1157">Je ne me suis promis, contre ma conscience,</l>
+	<l id="1158">Que pour laisser mourir le Prince en patience,</l>
+	<l id="1159">Voyant qu�il s�obstinait � me rendre enflamm�</l>
+	<l id="1160">De cet objet divin que j�avais tant aim�.</l>
+	<l id="1161">Si tu crois que mon c�ur c�de sans r�sistance,</l>
+	<l id="1162">Va de sa propre bouche apprendre ma constance,</l>
+	<l id="1163">Au fort du d�sespoir qui troublait mes esprits,</l>
+	<l id="1164">Comment eussai-je aim� ? J�avais tout � m�pris ;</l>
+	<l id="1165">Mon c�ur �tait outr� d�une douleur extr�me,</l>
+	<l id="1166">Tout m��tait odieux, je l��tais � moi-m�me ;</l>
+	<l id="1167">Et tu veux qu�en l��tat d�un si malheureux sort,</l>
+	<l id="1168">L�hymen charm�t mes sens dans l�effroi de la mort ?</l>
+	<l id="1169">Tu fais certes, mon �me un peu trop criminelle,</l>
+	<l id="1170">Ta cl�mence est injuste, et ta piti� cruelle :</l>
+	<l id="1171">Ta main rouvre ma plaie apr�s sa gu�rison,</l>
+	<l id="1172">Et le miel qu�elle m�offre est m�l� de poison.</l>
+	<l id="1173">Si de ces l�chet�s tu m�estimes coupable,</l>
+	<l id="1174">Je suis de ton amour un objet incapable,</l>
+	<l id="1175">Les Dieux me sont t�moins toutefois que mon c�ur,</l>
+	<l id="1176">B�nit toujours les traits de son premier vainqueur ;</l>
+	<l id="1177">Que depuis que mon �me, � te plaire occup�e,</l>
+	<l id="1178">T�a promis tous ses soins, je ne t�ai point tromp�e :</l>
+	<l id="1179">Crois moi, que B�r�nice en ce funeste jour,</l>
+	<l id="1180">M�a beaucoup plus touch� de piti� que d�amour ;</l>
+	<l id="1181">Que ses chastes attraits n�ont point bless� tes charmes,</l>
+	<l id="1182">Depuis que j�ai lav� mon crime dans mes larmes.</l>
+	<l id="1183">Ceci n�est qu�un effet de mon sort rigoureux ;</l>
+	<l id="1184">J�ai paru complaisant, et non pas amoureux :</l>
+	<l id="1185">Puisqu�en toi j�avais mis toute mon assurance,</l>
+	<l id="1186">Doux port de mes d�sirs, et de mon esparance,</l>
+	<l id="1187">Pourquoi t�ai-je fait peur, quand j�ai mal �vit�,</l>
+	<l id="1188">L��cueil o� mon amour avait d�j� heurt� ?</l>
+	<l id="1189">Non, non, chaste beaut�, tu n�avais rien � craindre ;</l>
+	<l id="1190">Vois-tu pas que celui qui me voulait contraindre</l>
+	<l id="1191">De m�engager ailleurs, contre mon sentiment,</l>
+	<l id="1192">Par miracle est sauv�, pour sauver ton amant ?</l>
+	<l id="1193">Allons pour son salut faire des feux de joie ;</l>
+	<l id="1194">Je meurs d�impatience, il faut que je le voie,</l>
+	<l id="1195">Et que je lui d�couvre encore devant toi,</l>
+	<l id="1196">L�honneur que tu me fais, de recevoir ma foi,</l>
+	<l id="1197">Pourvu qu�il s�en contente, et qu�il nous favorise,</l>
+<note type="C">Cette litote ressemble � celles de SCUDERY : � Je quitte un ennemi que je ne puis ha�r � (Le Prince d�guis�) ou de CORNEILLE dans Le Cid : � Rodrigue a des vertus que je ne puis ha�r �. {Note de Guillaume Robert]</note>
+	<l id="1198">Dans ces justes projets que le Ciel autorise.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1199">Croirai-je, mon Phalante, � ce que tu me dis ?</l>
+	<l id="1200">Tous mes sens d�all�gresse et d�amour interdis,</l>
+	<l id="1201">Ne me trompent-ils point, en la gloire �clatante,</l>
+	<l id="1202">De cet heureux succ�s, qui passe mon attente ?</l>
+	<l id="1203">Quand tu me charmerais par une illusion,</l>
+	<l id="1204">Quand je te devrais croire, � ma confusion,</l>
+	<l id="1205">Tes propos dans mon c�ur ne trouvent point d�obstacles,</l>
+	<l id="1206">Et j�y donne la foi, comme � de vrais oracles.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1207">Tu le peux, ma Princesse, assure toi d�avoir,</l>
+	<l id="1208">Sur l�esprit de Phalante un absolu pouvoir ;</l>
+	<l id="1209">Et qu�il t�en va donner une preuve assur�e,</l>
+	<l id="1210">Par sa fid�lit� d��ternelle dur�e.</l>
+	<l id="1211">Mais tu ne me dis point comme on a pu gu�rir</l>
+	<l id="1212">Le Prince abandonn�, qui s�en allait mourir ?</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1213">Carinte cette nuit accourue � son aide,</l>
+	<l id="1214">Dans la vertu d�une herbe a trouv� son rem�de,</l>
+	<l id="1215">Et j�en ai vu le prompt et merveilleux effet.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1216">J�adore ce miracle, et la main qui l�a fait,</l>
+	<l id="1217">Mais que tardons nous plus ? Voyons que fait le Prince,</l>
+	<l id="1218">Et sauvons apr�s lui sa ville et sa province.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1219">Je sais bien l�-dessus un important secret,</l>
+	<l id="1220">Qu�il faut que je r�v�le, et non pas sans regret.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SC�NE IV.</head>
+<sp who='IOLANTE'><speaker>IOLANTE, seule.</speaker>
+	<l id="1221">Puisque dedans l�ardeur du courroux qui m�enflamme,</l>
+	<l id="1222">J�ai si mal m�nag� le secret de mon �me,</l>
+	<l id="1223">Puisqu�elle s�est ouverte � cette ingrate s�ur,</l>
+	<l id="1224">Qui flatte de nos biens l�inf�me ravisseur,</l>
+	<l id="1225">De peur que mon malheur enfin ne me surmonte,</l>
+	<l id="1226">Et que tous mes desseins n�avortent � ma honte,</l>
+	<l id="1227">Fuyons la tyrannie, et l�horreur de ces lieux,</l>
+	<l id="1228">O� ce qui me charmait est funeste � mes yeux :</l>
+	<l id="1229">Dans le p�ril extr�me o� je me vois r�duite,</l>
+	<l id="1230">Je n�ai ni s�ret�, ni salut qu�en la fuite,</l>
+	<l id="1231">La nuit me favorise, allons en libert�,</l>
+	<l id="1232">Commettre notre vie � la fid�lit� :</l>
+	<l id="1233">Puisque seule elle sait la descente secr�te,</l>
+	<l id="1234">Par o� j�ai r�solu d�assurer ma retraite,</l>
+	<l id="1235">J�ai sond� vainement les c�urs de nos sujets,</l>
+	<l id="1236">Et j�ai fait parmi vous d�inutiles projets :</l>
+	<l id="1237">Mais le Duc de Calabre a bien re�u ma lettre,</l>
+	<l id="1238">Et de son seul appui j�ose tout me promettre :</l>
+	<l id="1239">Puisqu�il est mon refuge, et mon unique espoir,</l>
+	<l id="1240">Et puisqu�il nous promet de nous bien recevoir,</l>
+	<l id="1241">Sauvons nous dans sa tente, et quittons de bonne heure,</l>
+	<l id="1242">Une si d�testable, et si triste demeure.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SC�NE V. Iolas, Phalante, Liliane, Carinte, Le Capitaine des Gardes.</head>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1243">H� bien, que dirais-tu des caprices du sort ?</l>
+	<l id="1244">Me voil� par miracle affranchi de la mort :</l>
+	<l id="1245">Cette divine fille, au gr� des destin�es,</l>
+	<l id="1246">Pour quelque temps encor prolonge mes ann�es :</l>
+	<l id="1247">Mon cher fr�re, il faudra que par n�cessit�,</l>
+	<l id="1248">Tu bannisses l�espoir dont je t�avais flatt� :</l>
+	<l id="1249">La vie, et B�r�nice aujourd�hui me demeurent,</l>
+	<l id="1250">Je connais ton regret dans tes yeux qui la pleurent,</l>
+	<l id="1251">Mais je connais aussi cette rare vertu,</l>
+	<l id="1252">Qui m�prise le vice � tes pieds abattu ;</l>
+	<l id="1253">Et qui ne souffrant rien contre ta conscience,</l>
+	<l id="1254">Te fera supporter ta perte en patience :</l>
+	<l id="1255">Je suis honteux de vivre, et de t��ter un bien,</l>
+	<l id="1256">Que tu pouvais d�j� regarder comme tien :</l>
+	<l id="1257">Cette fille te tue, en conservant ma vie,</l>
+	<l id="1258">Qui peut-�tre sera de ton tr�pas suivie,</l>
+	<l id="1259">Mais las si je croyais, qu�en ton ennui secret,</l>
+	<l id="1260">Tu sentisses ta perte avec tant de regret,</l>
+	<l id="1261">Je me laissais mourir de deuil et de tristesse,</l>
+	<l id="1262">Pour te laisser en paix poss�der la Princesse.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1263">Tu p�ches contre moi par exc�s d�amiti�,</l>
+	<l id="1264">Mon fr�re, et je te trouve injuste en ta piti�,</l>
+	<l id="1265">Prends garde que mes pleurs ne coulent que de joie,</l>
+	<l id="1266">En l�heur inesp�r� que le Ciel nous envoie,</l>
+	<l id="1267">T�ayant vu tout � coup sortir de ce danger,</l>
+	<l id="1268">Quelle perte aujourd�hui me pourrait affliger ?</l>
+	<l id="1269">Puisque je te retrouve avec cette assurance,</l>
+	<l id="1270">De t�embrasser vivant contre toute esp�rance ?</l>
+	<l id="1271">Connais mieux ta vertu pour conna�tre mon c�ur,</l>
+	<l id="1272">Et ne me traite plus avec tant de rigueur,</l>
+	<l id="1273">Je me sais mod�rer, et mieux que tu n�estimes,</l>
+	<l id="1274">Mettre � mes passions des bornes l�gitimes :</l>
+	<l id="1275">Je confesse qu�amour de tous ses traits arm�,</l>
+	<l id="1276">Par l��il de B�r�nice autrefois m�a charm�,</l>
+	<l id="1277">Il est vrai, ta moiti� fut celle de mon �me,</l>
+	<l id="1278">Et dans les sentiments de ma pudique flamme,</l>
+	<l id="1279">Mon c�ur pour sa beaut� fit des v�ux infinis,</l>
+	<l id="1280">Avant qu�un chaste hymen vous eut tout deux unis,</l>
+	<l id="1281">Mais j�ai su respecter cette union sacr�e.</l>
+	<l id="1282">D�s l�heure que j�ai su qu�elle �tait assur�e,</l>
+	<l id="1283">Et sans me consommer d�inutiles d�sirs,</l>
+	<l id="1284">J�ai jusques dans mon c�ur �touff� mes soupirs,</l>
+	<l id="1285">Quand tu me l�as c�d� avec tant de confiance,</l>
+	<l id="1286">Ta douleur t�emp�chait de voir ma r�sistance,</l>
+	<l id="1287">Et que je n�acceptais un si rare pr�sent,</l>
+	<l id="1288">Que pour �tre � tes v�ux de tout point complaisant :</l>
+	<l id="1289">Voici, cher Iolas la beaut� qu�hymen�e,</l>
+	<l id="1290">M�a sous ton bon plaisir aujourd�hui destin�e,</l>
+	<l id="1291">Avant que B�r�nice eut fait sur mes esprits,</l>
+	<l id="1292">Un si puissant effort, celle-ci avait pris,</l>
+	<l id="1293">Elle a sans murmurer connu ma perfidie,</l>
+	<l id="1294">Et ma l�g�ret� ne l�a point refroidie,</l>
+	<l id="1295">Les Dieux me sont t�moins qu�un secret mouvement,</l>
+	<l id="1296">M�a port� malgr� moi dedans ce changement,</l>
+	<l id="1297">Sans offense pourtant, car j�aime par estime,</l>
+	<l id="1298">La Princesse et ta s�ur d�une ardeur l�gitime,</l>
+	<l id="1299">Partout o� je revois cette chaste beaut�,</l>
+	<l id="1300">Sans d�sir je suis d�aise, et d�amour transport�,</l>
+ <note type="L">Penser : nom masculin au XVII�me pour ��pens�e��.</note>
+	<l id="1301">Et dedans ce penser plut�t Saint que profane,</l>
+	<l id="1302">Je conserve toujours mon c�ur � Liliane :</l>
+	<l id="1303">Souffre que je l�adore, et permets qu�en l�aimant,</l>
+	<l id="1304">Je r�pare envers toi mon premier manquement,</l>
+	<l id="1305">Aussi bien envers elle, il est trop v�ritable,</l>
+	<l id="1306">Que d�un si grand honneur je me sens incapable,</l>
+	<l id="1307">Je n�ose encore pr�tendre � ce tr�sor exquis,</l>
+	<l id="1308">Que mon service au moins ne me l�ait mieux acquis :</l>
+	<l id="1309">Je parlerai tant�t avec plus de licence,</l>
+	<l id="1310">Et si je te sers bien, voila ma r�compense.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1311">Aurais-tu ce dessein, et pour elle et pour moi ?</l>
+	<l id="1312">Songeai-je ce plaisir, ou si je le re�ois ?</l>
+	<l id="1313">Certes si j�ai le Ciel � ce point favorable,</l>
+	<l id="1314">Il n�est Prince en bon-heur qui me soit comparable :</l>
+	<l id="1315">Mais qu�en dit Iolante ? Et qu�en dis-tu ma s�ur ?</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1316">Que s�il vous pla�t ainsi, Phalante est possesseur</l>
+	<l id="1317">De ce c�ur que je mets entier en sa puissance,</l>
+	<l id="1318">Et dont il a raison d�estimer la constance.</l>
+	<l id="1319">Pour ma s�ur, il est vrai qu�un jaloux d�sespoir</l>
+	<l id="1320">L�a tant�t fait sortir des bornes du devoir,</l>
+	<l id="1321">Concevant pour vous deux une haine mortelle :</l>
+	<l id="1322" part='i'>Elle vous veut trahir.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1322" part='f'>Que l�on s�assure d�elle.</l>
+</sp>
+<sp who='LE CAPITAINE DES GARDES'><speaker>LE CAPITAINE DES GARDES.</speaker>
+	<l id="1323">Si j�eusse un peu plut�t son dessein reconnu,</l>
+	<l id="1324">Grand Prince, assur�ment je l�aurais pr�venu ;</l>
+	<l id="1325">Avant que j�eusse appris son crime de Phalante,</l>
+	<l id="1326" part='i'>Elle �tait �chapp�e.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1326" part='f'>� Fille violente !</l>
+	<l id="1327">� dangereuse humeur ! Esprit pernicieux !</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1328">Crois-tu que le parti d�Iarbe en vaille mieux ?</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1329">H� quoi, tu savais donc ce qu�elle avait dans l��me,</l>
+	<l id="1330" part='i'>Mon fr�re ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1330" part='f'>Cet objet de ma pudique flamme,</l>
+	<l id="1331">M�ayant dit que sa s�ur contre votre maison</l>
+	<l id="1332">Machinait pr�s du Duc certaine trahison,</l>
+	<l id="1333">J�ai cru qu�il importait d�en avertir Cl�onte,</l>
+	<l id="1334">Afin qu�il la veill�t ; mais une fuite prompte</l>
+	<l id="1335">Avait d�j� port�e au camp des ennemis :</l>
+	<l id="1336">Cher fr�re, (puisqu�en fin ce doux nom m�est permis)</l>
+	<l id="1337">Laisse moi m�riter l�heur de ton alliance,</l>
+	<l id="1338">Repose ton esprit dessus ma vigilance,</l>
+	<l id="1339">L�honneur de ton �tat me touche autant qu�� toi,</l>
+	<l id="1340">Parmi les Calabrais je vais semer l�effroi ;</l>
+	<l id="1341">Et par des actions d��ternelle m�moire,</l>
+	<l id="1342">Assurant ton repos, j�assurerai ma gloire.</l>
+	<l id="1343">Le Duc d�un grand assaut nous menace aujourd�hui,</l>
+	<l id="1344">Pr�venons son dessein, allons jusques � lui :</l>
+	<l id="1345">Avec mille des miens ce matin je me vante,</l>
+	<l id="1346">De l�aller affronter jusques dedans sa tente.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1347">Tu n�entreprends jamais rien que bien � propos,</l>
+	<l id="1348">Va, j�irai cependant prendre un peu de repos,</l>
+	<l id="1349">Pour me mettre bient�t en �tat de te suivre,</l>
+	<l id="1350">Puisqu�avecques tant d�heur le Ciel me laisse vivre,</l>
+	<l id="1351">Carinte � qui je dois la lumi�re du jour,</l>
+	<l id="1352">Le bien de mon �tat, et l�heur de mon amour ;</l>
+	<l id="1353">Que ferai-je pour toi dans ce bienfait extr�me ?</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1354">Faisant pour votre s�ur, vous faites pour moi-m�me,</l>
+	<l id="1355">Assurant son bonheur, vous assurez le mien,</l>
+	<l id="1356">Apr�s son amiti�, je ne souhaite rien,</l>
+	<l id="1357" part='i'>Que vos prosp�rit�s.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1357" part='f'>� g�n�reuse fille !</l>
+	<l id="1358">Je mets entre tes mains l�honneur de ma famille,</l>
+	<l id="1359">Ta vertu me ravit, va t�en voir de ma part,</l>
+	<l id="1360">Ce que fait la Princesse ; elle a veill� bien tard,</l>
+	<l id="1361">Et crois qu�au jour naissant, cette ch�re merveille,</l>
+	<l id="1362">Avec un doux repos r�pare cette veille.</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1363" part='i'>J�y vais.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1363" part='f'>Ne tarde point, retourne promptement,</l>
+	<l id="1364">Liliane sans toi ne peut vivre un moment.</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1365">J�admire les effets de votre providence,</l>
+	<l id="1366">Grands Dieux, qui vous moquez de l�humaine prudence ;</l>
+	<l id="1367">Et qui par des ressorts cach�s � l�Univers,</l>
+	<l id="1368">Produisez chaque jour cent miracles divers ;</l>
+	<l id="1369">Puisqu�il vous pla�t sauver le Prince par mon aide,</l>
+	<l id="1370">Daignant guider ma main, et b�nir mon rem�de,</l>
+	<l id="1371">Faites la gr�ce enti�re aux pauvres Tarentins,</l>
+	<l id="1372">Lassez de la rigueur de leurs mauvais Destins ;</l>
+	<l id="1373">Accordez leur la paix qu�ils ont tant d�sir�e ;</l>
+	<l id="1374">Qu�une f�licit� d��ternelle dur�e</l>
+	<l id="1375">Partout les accompagne ; et si vos bras puissants</l>
+	<l id="1376">Les rendent bienheureux, qu�ils soient reconnaissants.</l>
+</sp>
+</div2>
+</div1>
+<div1 type='acte' n='5'><head>ACTE V</head>
+<div2 type='scene' n='1'><head>SC�NE I. Iarbe, Duc de Calabre, Iolante, M�nandre.</head>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1377">Oui, si je trouve ici toutes choses prosp�res,</l>
+	<l id="1378">Je vous r�tablirai dans le bien de vos p�res ;</l>
+	<l id="1379">Recevez en ma foi, qui ne manqua jamais ;</l>
+	<l id="1380">Je suis inviolable en ce que je promets.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="1381">Je n�esp�rais pas moins de l�honneur de notre �ge,</l>
+	<l id="1382">De ce franc, magnanime, et g�n�reux courage.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1383">Mais Dieux ! Est-il bien vrai qu�en son aveuglement,</l>
+	<l id="1384">B�r�nice envers moi se porte insolemment ?</l>
+	<l id="1385">Et que jusqu�� ce point cette ingrate s�oublie</l>
+	<l id="1386" part='i'>Que de nous menacer ?</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="1386" part='f'>J�admire sa folie,</l>
+	<l id="1387">Elle se promet tout de ce nouvel �poux,</l>
+	<l id="1388">Qui pense triompher bient�t d�elle et de nous :</l>
+	<l id="1389">La Calabre d�j� leur est bien assur�e :</l>
+	<l id="1390">........................................</l>
+	<l id="1391">D�j� ces vains esprits charm�s dans leurs liens,</l>
+	<l id="1392">Estiment qu�ils joindront vos �tats � vos biens.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1393">S�ils ont fait ce projet, ils l�ont fait � leur honte,</l>
+	<l id="1394">Ces amants aveugl�s sont bien loin de leur conte,</l>
+	<l id="1395">J�ai de quoi r�primer leurs folles vanit�s,</l>
+	<l id="1396">Et retrancher l�espoir dont ils se sont flatt�s ;</l>
+	<l id="1397">Il est temps envers vous enfin je me dispense</l>
+	<l id="1398">D�un secret dont M�nandre a seul la connaissance ;</l>
+	<l id="1399">Ma fille se croit seule, et se repa�t de vent ;</l>
+	<l id="1400">Mais j�ai, gr�ces aux Dieux, un h�ritier vivant ;</l>
+	<l id="1401">Et je vous veux Madame, apprendre l�aventure,</l>
+	<l id="1402">Qui fit qu�en l��loignant, j�offensai la Nature.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="1403">Quoi ? Vous avez un fils inconnu parmi nous ?</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1404">Il m�est sage Princesse, inconnu comme � vous,</l>
+	<l id="1405">Mais au camp dans ce jour vous le verrez para�tre,</l>
+	<l id="1406">Car l�ordre en est donn� ; M�nandre, o� peut-il �tre ?</l>
+	<l id="1407" part='i'>Vient-il pas ?</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1407" part='f'>Monseigneur, s�il sort de ma maison,</l>
+	<l id="1408">Il hasarde sa vie, avant sa gu�rison.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1409">En quelque �tat qu�il soit, je veux qu�on me l�am�ne,</l>
+	<l id="1410">Quel plaisir prenez-vous de me laisser en peine ?</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE, en lui-m�me.</speaker>
+	<l id="1411">� malheureux M�nandre ! � Destin rigoureux !</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1412">Vous savez que sans lui je ne puis �tre heureux :</l>
+	<l id="1413">Je vous l�ai dit cent fois ; mais quoi que je vous die,</l>
+	<l id="1414">Vous m�allez all�guer toujours sa maladie :</l>
+	<l id="1415">Allez, sans r�pliquer, vous-m�me le qu�rir ;</l>
+	<l id="1416">Dut-il par les chemins entre vos bras mourir,</l>
+	<l id="1417">Je le veux voir enfin, quelque mal qui l�accable,</l>
+	<l id="1418" part='i'>Et sans plus de remise.</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1418" part='f'>Ah ! Que je suis coupable,</l>
+	<l id="1419">De laisser �chapper ce gage pr�cieux,</l>
+	<l id="1420">Que j�avais conserv� quinze ans, comme mes yeux :</l>
+	<l id="1421" part='i'>Il faut, il faut mourir.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1421" part='f'>Que dites vous M�nandre ?</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1422" part='i'>Qu�il faut vous l�emmener.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1422" part='f'>Vous ne pouvez comprendre,</l>
+	<l id="1423">Ces discours ambigus, et pleins d�obscurit�.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="1424" part='i'>Non,</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1424" part='f'>Je leur vais donner, le sens, et la clart�.</l>
+	<l id="1425">Sachez que mon dessein, pour cro�tre mes d�sastres,</l>
+	<l id="1426">M�a rendu curieux de conna�tre les astres ;</l>
+	<l id="1427">Et que ce vain savoir, qu�un grand Mage m�apprit,</l>
+	<l id="1428">D�s ma tendre jeunesse, a charm� mon esprit :</l>
+	<l id="1429">Mais las ! je m�en servis � ma propre ruine,</l>
+	<l id="1430">Pendant l�accouchement de ma chaste Amerine,</l>
+	<l id="1431">De deux enfants jumeaux d�un beau couple innocent,</l>
+	<l id="1432">Qui co�teront la vie � leur m�re en naissant)</l>
+	<l id="1433">Au fort de ma douleur, j�eus encore la puissance,</l>
+	<l id="1434">D�en tirer l�horoscope, au point de leur naissance :</l>
+	<l id="1435">Et j�eus horreur de voir l�ascendant furieux,</l>
+	<l id="1436">Qui mena�ait leurs jours d�un inceste odieux !</l>
+	<l id="1437">Sous le voile d�hymen (horrible en ce myst�re)</l>
+	<l id="1438">Je trouve que la s�ur br�lerait pour le fr�re :</l>
+	<l id="1439">Qui s�irait d�un brasier, tout pareil �chauffant :</l>
+	<l id="1440">Je d�couvrais de plus, que cet ingrat enfant ;</l>
+	<l id="1441">Viendrait un jour, pouss�, d�une damnable envie,</l>
+	<l id="1442">Les armes � la main, attenter � ma vie ;</l>
+	<l id="1443">Et sortant plein de honte, et de confusion,</l>
+	<l id="1444">J�appr�hendai l�effet de ma pr�diction.</l>
+	<l id="1445">Pour d�tourner ce mal de ma triste famille,</l>
+	<l id="1446">Je crus qu�il suffisait de d�clarer la fille ;</l>
+	<l id="1447">Pour mon fils, je voulus que M�nandre en eut soin,</l>
+	<l id="1448">Le connaissant fid�le, et qu�il l�emmen�t loin,</l>
+	<l id="1449">Dans un lieu de plaisir, qu�il a dans la Province,</l>
+	<l id="1450">Sans lui faire sentir qu�il fut n� fils de Prince,</l>
+	<l id="1451">De peur avec le temps, il ne s�enquit pourquoi</l>
+	<l id="1452">�tant mon fils unique, on l��loignait de moi.</l>
+	<l id="1453">Il a donc en ce lieu, sous le nom d�Anaxandre,</l>
+	<l id="1454">Pass� jusques ici pour le fils de M�nandre,</l>
+	<l id="1455">Avec des qualit�s si rares, qu�en effet,</l>
+	<l id="1456">J�ai grande occasion d�en �tre satisfait.</l>
+	<l id="1457">Ma fille toutes fois �tant chez moi nourrie,</l>
+	<l id="1458">A seule �t� de moi si tendrement ch�rie,</l>
+	<l id="1459">Que sans l�ingrate humeur d�elle, et de son �poux,</l>
+	<l id="1460">Sans doute que mon fils en eut senti les coups :</l>
+	<l id="1461">Je l�aurais oubli� chez M�nandre ; et pour elle</l>
+	<l id="1462">Perdu tous les respects de la loi naturelle.</l>
+	<l id="1463">D�s l�heure que mon gendre eut fait sur mon �tat,</l>
+	<l id="1464">Les armes � la main, un si grand attentat.</l>
+	<l id="1465">Voyant les astres faux, du c�t� de l�inceste,</l>
+	<l id="1466">O� ma cr�dulit� avait �t� funeste,</l>
+	<l id="1467">Et ne pr�sumant pas qu�un fils tant estim�,</l>
+	<l id="1468">Dut jamais contre moi para�tre envenim�,</l>
+	<l id="1469">Je le voulus tirer de cette solitude,</l>
+	<l id="1470">Pour punir Iolas de son ingratitude ;</l>
+	<l id="1471">Mais M�nandre, qui veut qu�il gu�risse � loisir,</l>
+	<l id="1472">A jusques � pr�sent retard� mon plaisir.</l>
+	<l id="1473">Maintenant je le presse ; et pour m��ter de peine,</l>
+	<l id="1474">Tout malade qu�il est, je veux qu�il me l�emm�ne.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="1475">Vraiment cet accident que vous me racontez,</l>
+	<l id="1476">�tonne mes esprits, et les tient enchantez ;</l>
+	<l id="1477">D�un autre que de vous j�aurais peine � le croire,</l>
+	<l id="1478">Car il sent aussit�t la fable que l�Histoire :</l>
+	<l id="1479">Mais depuis qu�Anaxandre est chez ce gouverneur,</l>
+	<l id="1480">Qui doit l�avoir instruit dans les lois de l�honneur,</l>
+	<l id="1481">Pour �tre le t�moin vous-m�me de sa vie,</l>
+	<l id="1482">Je m��tonne comment vous avez eu envie</l>
+	<l id="1483">De le faire venir devant vous inconnu ?</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1484">Le d�sir de le voir bien souvent m�est venu ;</l>
+	<l id="1485">Mais j�ai (me figurant une vaine disgr�ce)</l>
+	<l id="1486">De son astre malin redout� la menace.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="1487">Diff�rez donc encor, jusqu�� tant que les Dieux</l>
+	<l id="1488">Vous le rendent entier, et qu�il se porte mieux.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1489">Puisqu�il doit r�tablir mon bonheur et ma joie,</l>
+	<l id="1490">Quoi qu�il puisse arriver, il faut que je le voie :</l>
+	<l id="1491">Cependant ma Princesse, allons disposer tout,</l>
+	<l id="1492">Pour l�assaut de Tarente, et si j�en viens � bout,</l>
+	<l id="1493">(Comme vous me donnez grand sujet de le croire)</l>
+	<l id="1494">Seule vous en aurez le profit et la gloire.</l>
+</sp>
+</div2>
+<div2 type='scene' n='2'><head>SC�NE II. Alm�dor, Iarbe, Iolante, Les Soldats.</head>
+<sp who="ALM�DOR"><speaker>ALM�DOR.</speaker>
+	<l id="1495">Seigneur tout est perdu, vos gens �pouvant�s,</l>
+	<l id="1496">Sans attendre les coups fuient de tous c�t�s,</l>
+	<l id="1497">Phalante qui n�a point de pareil sur la terre,</l>
+	<l id="1498">(Sorti de la Cit� comme un foudre de guerre)</l>
+	<l id="1499">Abat vos escadrons, ravit vos �tendards,</l>
+	<l id="1500">Et s�me dans le Camp l�effroi de toutes parts :</l>
+	<l id="1501">Tous nos retranchements c�dent � son courage.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1502">Allons nous opposer � sa bouillante rage,</l>
+	<l id="1503">C�est un torrent qui passe, et qui ne peut durer,</l>
+	<l id="1504">Il n�est pas temps encor de rien d�sesp�rer.</l>
+</sp>
+<sp who="ALM�DOR"><speaker>ALM�DOR.</speaker>
+	<l id="1505">Vos meilleurs officiers, qu�� Tarente l�on m�ne,</l>
+	<l id="1506">Sont d�j� prisonniers de ce grand capitaine :</l>
+	<l id="1507">Rien ne peut r�sister aux forces de son bras ;</l>
+	<l id="1508">Si vous ne ralliez vous-m�me vos soldats,</l>
+	<l id="1509">Vous perdez votre arm�e, en ce p�ril extr�me,</l>
+	<l id="1510">Et vous courez fortune en votre tente m�me.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="1511">Sus, courage Soldats, il me faut secourir.</l>
+	<l id="1512">En cette occasion, il faut vaincre, ou mourir,</l>
+	<l id="1513">Je l�exterminerai, fut-il le Dieu de Thrace.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1514">D�tournez, justes Dieux, ce mal qui nous menace.</l>
+</sp>
+</div2>
+<div2 type='scene' n='3'><head>SC�NE III. M�nandre, Phalante, Hydaspe.</head>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1515">Mourons, pour ob�ir � la rigueur du Sort,</l>
+	<l id="1516">Mais finissons au moins par une belle mort :</l>
+	<l id="1517">Vengeons en p�rissant l�honneur de la patrie ;</l>
+	<l id="1518">Attaquons ce lion, dont on craint la furie,</l>
+	<l id="1519">� moi, mes Compagnons, quelle honte est-ceci ?</l>
+	<l id="1520">Votre Prince vous voit, le servez-vous ainsi ?</l>
+	<l id="1521">Poltrons, ou fuyez-vous ? En vain je me travaille,</l>
+	<l id="1522">L��pouvante a saisi cette vile canaille ;</l>
+	<l id="1523">Il n�importe, ayant fait le dessein de mourir,</l>
+	<l id="1524">Que me servirait-il qu�on me vint secourir ?</l>
+	<l id="1525">Je suis lass� de vivre, allons venger le Prince,</l>
+	<l id="1526">De notre l�chet�, fatale � sa Province :</l>
+	<l id="1527">Tourne t�te Phalante, � moi brave guerrier,</l>
+	<l id="1528">Ajoute � ton triomphe encore ce laurier.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1529">Tu cours � ta ruine, insens� t�m�raire,</l>
+	<l id="1530">Qui ne peut r�sister � ma juste col�re.</l>
+<stage>Ici le casque tombe de la t�te de M�nandre, qui est reconnu de Phalante pour son p�re putatif.</stage>
+	<l id="1531">� justes Dieux que vois-je ; ah mon P�re est-ce vous,</l>
+	<l id="1532">Que la rigueur du sort fait p�rir sous mes coups ?</l>
+	<l id="1533">Faut-il, pour obscurcir l��clat de ma victoire,</l>
+	<l id="1534">Qu�une telle rencontre arr�te ici ma gloire ?</l>
+	<l id="1535">M�nandre, mon cher p�re, est-ce vous que je vois ?</l>
+	<l id="1536">Embrassez, embrassez, votre Anaxandre et moi, </l>
+<stage>Il �te son casque.</stage>
+	<l id="1537">Qui sortant par caprice hors de votre puissance,</l>
+	<l id="1538">Sous le nom de Phalante a cach� sa naissance,</l>
+	<l id="1539">Qui se doit sa fortune, et qui combl� d�honneurs,</l>
+	<l id="1540">Se voit consid�r� de tant de grands Seigneurs.</l>
+	<l id="1541" part='i'>Arr�tez Compagnons.</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1541" part='f'>Ah ! Je meurs de joie,</l>
+	<l id="1542">Est-il vrai que je veille, et que je vous revoie,</l>
+	<l id="1543">Glorieux Anaxandre ? Et que Dieu m�ait rendu,</l>
+	<l id="1544">Le gage pr�cieux, depuis six ans perdu ?</l>
+	<l id="1545">Vous n��tes point mon fils, comme vous pensez l��tre,</l>
+	<l id="1546">Vous �tes mon Seigneur, et mon Prince, et mon Ma�tre,</l>
+	<l id="1547">Souffrez donc aujourd�hui que M�nandre � genoux,</l>
+	<l id="1548">En cette qualit� s�incline devant vous.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1549">Son plaisir est extr�me ; et comme il se redouble,</l>
+	<l id="1550">Il alt�re l�esprit du bonhomme, et le trouble,</l>
+	<l id="1551" part='i'>Que faites vous, bons Dieux !</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1551" part='f'>Je fais ce que je dois,</l>
+	<l id="1552">Je l�avoue, il est vrai, je suis tout hors de moi ;</l>
+	<l id="1553">Mais troubl� que je suis, je vous connais encore,</l>
+	<l id="1554">Pour le seul fils du Duc, que la Calabre adore,</l>
+	<l id="1555">Qui voulut qu�inconnu, pour certaine raison,</l>
+	<l id="1556">Vous fussiez comme mien nourri dans ma maison :</l>
+	<l id="1557">Magnanime Phalante, � ce nom plein de gloire,</l>
+	<l id="1558">Je me veux arr�ter ; mais Dieux ! Le puis-je croire ?</l>
+	<l id="1559">Oui, je n�en doute plus, ces traits charmants et doux,</l>
+	<l id="1560">Retracent Monseigneur, je les reconnais tous :</l>
+	<l id="1561">Ah ! Que votre Fortune est de tout point heureuse,</l>
+	<l id="1562">Et que vous pouvez faire une paix glorieuse !</l>
+	<l id="1563">Tout c�de au coup fatal de ce bras indompt�,</l>
+	<l id="1564">Le camp de votre p�re est tout �pouvant�,</l>
+	<l id="1565">Si vous ne d�tournez promptement cet orage ;</l>
+	<l id="1566">Par vous seul excit�, son honneur fait naufrage.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1567">Dites vous vrai, M�nandre ? Ou si vos sens charm�s,</l>
+	<l id="1568">Veulent tromper les miens d�all�gresse p�m�s ?</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1569">Aidez vous, aidez vous, en cette connaissance,</l>
+	<l id="1570">Et par votre grand c�ur sentez votre naissance.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1571">M�nandre me surmonte, et dans mes hauts desseins,</l>
+	<l id="1572">Un vieillard fait tomber les armes de mes mains :</l>
+	<l id="1573">Mais puisque vous voulez que je sente ma joie,</l>
+	<l id="1574">Puisqu�� tous vos discours vous voulez que je croie,</l>
+	<l id="1575">Faites tant que je sache au moins pour quel p�ch�,</l>
+	<l id="1576">On m�a tenu chez vous si longuement cach�.</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1577">Venez trouver le Duc, que cette affaire touche,</l>
+	<l id="1578">Grand Prince, et l�apprenez vous-m�me de sa bouche :</l>
+	<l id="1579">Venez sur ma parole, il n�est pas loin d�ici ;</l>
+	<l id="1580">Ou si ses L�gions vous tiennent en souci,</l>
+	<l id="1581">Si vous vous d�fiez, souffrez qu�il se hasarde,</l>
+	<l id="1582">Et qu�il me suive ici seul avecque sa garde.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1583">Je vous crois, cher M�nandre, et vous veux ob�ir :</l>
+	<l id="1584">Celui qui m�a nourri me voudrait il trahir ?</l>
+	<l id="1585">Allons � sa rencontre, ah ! Que j�ai l��me �mue,</l>
+	<l id="1586">D�une si glorieuse et si ch�re entrevue :</l>
+	<l id="1587">Cependant, doux t�moin de mes prosp�rit�s,</l>
+	<l id="1588">Et qui fus compagnon de mes adversit�s,</l>
+	<l id="1589">Hydaspe, cher ami, vole dedans Tarente,</l>
+	<l id="1590">Et fais qu�� ce bonheur (qui passe notre attente)</l>
+	<l id="1591">Iolas prenne part, et tous les siens aussi ;</l>
+	<l id="1592">Sa sant� permet bien qu�il vienne jusqu�ici.</l>
+	<l id="1593">Il voit du haut des murs mon succ�s manifeste,</l>
+	<l id="1594">En l�emmenant au camp, raconte lui le reste :</l>
+	<l id="1595">Dis qu�on lui promet tout, si pour l�amour de moi,</l>
+	<l id="1596">Il pardonne � celui qui lui manqua de foi.</l>
+</sp>
+<sp who="HYDASPE"><speaker>HYDASPE.</speaker>
+	<l id="1597" part='i'>J�y cours.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1597" part='f'>Dis cependant, en deux mots, cher M�nandre,</l>
+	<l id="1598">Pourquoi l�on te commit la garde d�Anaxandre ;</l>
+	<l id="1599">�clairci promptement mon esprit curieux,</l>
+	<l id="1600">En gagnant la fra�cheur, qui para�t en ces lieux,</l>
+	<l id="1601">O� j�attendrai le Duc, mon Seigneur, et mon p�re.</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1602">Allons, en peu de mots je vous vais satisfaire.</l>
+</sp>
+</div2>
+<div2 type='scene' n='4'><head>SC�NE IV. Iolas, et Les Princesses sur les murailles.</head>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1603">Peut-on voir sur la terre un homme plus vaillant ?</l>
+	<l id="1604">Admire avecque moI ce courage bouillant,</l>
+	<l id="1605" part='i'>Qu�en dis-tu, ma Princesse ?</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="1605" part='f'>Il est inimitable.</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1606">Rien ne peut r�sister � ce bras indomptable.</l>
+</sp>
+<sp who="CARINTE"><speaker>CARINTE.</speaker>
+	<l id="1607">Voyez que d�ennemis � ses pieds abattus !</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="1608">Certes, j�aI de tout temps admir� ses vertus,</l>
+	<l id="1609">J�aI toujours eu pour lui je ne sais quelle estime,</l>
+	<l id="1610">Qui n�a point offens� notre amour l�gitime ;</l>
+	<l id="1611">Et ne l�ai jamais su, ni ha�r, ni bl�mer,</l>
+	<l id="1612">Que quand tu m�as voulu contraindre de l�aimer.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1613">Le respect que je porte � son amiti� sainte,</l>
+	<l id="1614">M�ordonna dans mon mal cette douce contrainte ;</l>
+	<l id="1615">Ne la reproche plus � ta chaste moiti� ;</l>
+	<l id="1616">Je suis sain, et l�Amour a vaincu l�Amiti�.</l>
+	<l id="1617">Mais as-tu bien pris garde � l�action derni�re,</l>
+	<l id="1618">Que nous avons vu faire � cette �me guerri�re ;</l>
+	<l id="1619">Lors qu�arr�tant les siens, son casque il a hauss�,</l>
+	<l id="1620">Devant un des vaincus, qu�il a tant embrass� ?</l>
+	<l id="1621">Puis vers cet arbre ensemble ils ont tourn� visage.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="1622">Quelqu�un, qui s�est soumis � ce jeune courage ;</l>
+	<l id="1623">A m�rit� de lui ce trait d�humilit� ;</l>
+	<l id="1624">Je connais sa franchise, et sa civilit�.</l>
+</sp>
+<sp who="ARONTE"><speaker>ARONTE.</speaker>
+	<l id="1625">Seigneur, les principaux de l�arm�e ennemie,</l>
+	<l id="1626">Dont Phalante a trouv� la valeur endormie,</l>
+	<l id="1627">Par lui faits prisonniers, sont sous votre pouvoir,</l>
+	<l id="1628">On les vient d�emmener, vous pla�t-il de les voir ?</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1629">Non, va les consoler un peu dans leur disgr�ce,</l>
+	<l id="1630">Et qu�on les traite bien ; la prosp�rit� passe,</l>
+	<l id="1631">Le Sort en autre temps les peut favoriser,</l>
+	<l id="1632">Le Sage, de son heur ne doit point abuser.</l>
+</sp>
+<sp who='LE PAGE'><speaker>LE PAGE.</speaker>
+	<l id="1633">Hydaspe, que Phalante appelle son fid�le,</l>
+	<l id="1634">Vous porte de sa part une grande nouvelle :</l>
+	<l id="1635">Il vient tout en fureur d�entrer dans la Cit�.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1636">Sais-tu pour quel sujet il s�est si fort h�t� ?</l>
+</sp>
+<sp who='LE PAGE'><speaker>LE PAGE.</speaker>
+	<l id="1637">Il dit que le bonheur de Phalante est extr�me,</l>
+	<l id="1638">Mais il veut r�server ce secret � vous m�me.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1639" part='i'>Allons � sa rencontre.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="1639" part='f'>Ah ! Grands Dieux, que je crains,</l>
+	<l id="1640">Que ce Duc malheureux ne tombe sous ses mains ;</l>
+	<l id="1641">Tout injuste qu�il est, il est toujours mon p�re,</l>
+	<l id="1642">Grands Dieux ; et vos faveurs ont calm� ma col�re.</l>
+</sp>
+</div2>
+<div2 type='scene' n='5'><head>SC�NE V. Iarbe, M�nandre.</head>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1643">Il n�est pas vraisemblable ; Anaxandre, dis-tu,</l>
+	<l id="1644">Arriv� dans le camp, a d�j� combattu ?</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1645">Oui, grand Prince, et de plus, il a vaincu Phalante,</l>
+	<l id="1646">Comme il se pr�parait de forcer votre tente.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1647" part='i'>Il a vaincu Phalante ?</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1647" part='f'>En ses plus hauts desseins,</l>
+	<l id="1648">Il lui vient d�arracher la victoire des mains.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1649">Quoi ! mon Fils, aurait eu tant d�heur, et tant de gloire,</l>
+	<l id="1650">Que d�emporter d�abord une telle victoire ?</l>
+	<l id="1651">Tu le faisais malade, et dans l�extr�mit�,</l>
+	<l id="1652">Comment en ce p�ril s�est-il pr�cipit� ?</l>
+	<l id="1653">Comme a-t-il pu si t�t, dans notre Camp se rendre ;</l>
+	<l id="1654">Explique ton discours, que je ne puis comprendre.</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1655">Quand il vous contera ce succ�s glorieux,</l>
+	<l id="1656">Lui-m�me, croyez moi, vous le comprendrez mieux.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1657">Apr�s tout, s�il est vrai j�en b�nis l�aventure,</l>
+	<l id="1658">M�nandre, et te sais gr� de cette nourriture ;</l>
+	<l id="1659">Les Astres ont menti, du crime incestueux,</l>
+	<l id="1660">Dont ils ont menac� cet enfant vertueux ;</l>
+	<l id="1661">Et quand je le bannis, soup�onn� de ce vice,</l>
+	<l id="1662">Et d�un noir attentat, je lui fis injustice.</l>
+	<l id="1663">De mon cr�dule esprit Saturne s�est jou�,</l>
+	<l id="1664">Sa vertu me ravit, le Ciel en soit lou�,</l>
+	<l id="1665">Allons vers lui M�nandre, allons en diligence.</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1666">Allons, dois-je avouer ici ma n�gligence ?</l>
+	<l id="1667">Non, devant son cher fils je me veux accuser :</l>
+	<l id="1668">Dans l�exc�s de sa joie il pourra m�excuser.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1669">Mais les Astres peut-�tre on pr�dit de mon gendre,</l>
+	<l id="1670">Ce qu�� faux j�imputais � mon cher Anaxandre :</l>
+	<l id="1671">Cet ingrat m�a tenu lieu d�enfant jusqu�ici,</l>
+	<l id="1672">Et c�est lui seulement que le Ciel a noirci</l>
+	<l id="1673">De ce grand attentat, qui provoque ma haine.</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE, en lui-m�me.</speaker>
+	<l id="1674">Je le veux �claircir, et le tirer de peine ;</l>
+	<l id="1675">Toutefois j�attendrai que Phalante pr�sent,</l>
+	<l id="1676">(Puis qu�il a fait le mal) m�excuse en s�accusant ;</l>
+	<l id="1677">Le voici qui s�avance, ah ! que j�ai l��me �mue.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1678">Quel est ce cavalier qui para�t � ma vue ?</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1679">Grand Prince il n�est plus temps de vous rien d�guiser,</l>
+	<l id="1680">Phalante est votre fils, qui se vient accuser</l>
+	<l id="1681">D�avoir deshonor� son bras, et sa naissance,</l>
+	<l id="1682">En s�armant contre vous, le voila qui s�avance, Il se met � genoux.</l>
+	<l id="1683">Pour t�cher d�obtenir son pardon, et le mien.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1684">Tu te fais plus obscur, je n'y comprend plus rien.</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1685">Quand j�ai dit qu�Anaxandre en sa valeur extr�me,</l>
+	<l id="1686">A surmont� Phalante, il s�est vaincu soi-m�me,</l>
+	<l id="1687">Ce g�n�reux lion a calm� son courroux,</l>
+	<l id="1688">D�s qu�il a su par moi qu�il �tait n� de vous.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1689">As-tu l�esprit troubl�, que dis-tu l� Menandre ?</l>
+</sp>
+<sp who="M�NANDRE"><speaker>M�NANDRE.</speaker>
+	<l id="1690">Qu�en Phalante aujourd�hui vous voyez Anaxandre,</l>
+	<l id="1691">Et qu�un discours menteur vous a toujours tromp� ;</l>
+<stage>Ici Phalante met un genou � terre devant Iarbe.</stage>
+	<l id="1692">De puis six ans qu�il s�est de mes mains �chapp�, </l>
+	<l id="1693">Sous ce nom glorieux, il a fait des merveilles,</l>
+	<l id="1694">Le bruit en est venu cent fois � vos oreilles !</l>
+	<l id="1695">Vous avez admir�, vous-m�me en votre Cour,</l>
+	<l id="1696">Et si pendant le temps qu�il y fit du s�jour,</l>
+	<l id="1697">J�eusse �t� pr�s de vous, j�aurais fait reconna�tre,</l>
+	<l id="1698">Ce Prince glorieux, ignorant de son �tre.</l>
+	<l id="1699">Mais j��tais arr�t� malade en la maison,</l>
+	<l id="1700">Qui lui servit quinze ans d�inutile prison :</l>
+	<l id="1701">Le voila prostern�, mon offense le touche,</l>
+	<l id="1702">Et j�ose en demander le pardon par sa bouche.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1703">Confus d��tonnement je ne sais que penser.</l>
+ <stage>Il fait signe aussi � M�nandre de se lever.</stage>
+	<l id="1704">Relevez vous mon fils, et venez m�embrasser. </l>
+</sp>
+</div2>
+<div2 type='scene' n='6'><head>SC�NE VI. Phalante, Iarbe, M�nandre etc.</head>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1705">Le Ciel m�a-t-il bien faiit de ce crime capable ?</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1706">Ne vous excusez point, je suis tout seul coupable,</l>
+	<l id="1707">Ma superstition a fait tous vos p�ch�s,</l>
+	<l id="1708">Je vois les d�couverts, et je crains les cach�s :</l>
+	<l id="1709">Je connais la moiti� des menaces des Astres,</l>
+	<l id="1710">Et l�inceste sans doute, ach�ve mes d�sastres :</l>
+	<l id="1711">Par la mort d�Iolas vous �tes possesseur,</l>
+	<l id="1712">Des appas criminels de votre propre s�ur.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1713">Ne craignez, pas mon p�re, une telle disgr�ce,</l>
+	<l id="1714">Le Ciel s�est content� de sa seule menace,</l>
+	<l id="1715">Ce dangereux hymen reste autant imparfait,</l>
+	<l id="1716">Que mes sanglants desseins, qui n�ont point eu d�effet.</l>
+	<l id="1717">M�nandre m�a tout dit, vous avez par prudence,</l>
+	<l id="1718">De mon astre malin d�tourn� l�influence.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1719">Ah ! Mon fils, ce savoir est vain, et dangereux,</l>
+	<l id="1720">Si je l�eusse ignor�, j�eusse �t� trop heureux :</l>
+	<l id="1721">Quoi vous avez donc pas �pous� la Princesse,</l>
+	<l id="1722" part='i'>Par la mort d�Iolas ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1722" part='f'>Que votre crainte cesse,</l>
+	<l id="1723">Iolas, dont le mal m�a combl� de souci,</l>
+	<l id="1724">Est gu�ri par miracle, et doit venir ici.</l>
+	<l id="1725">Aussit�t que j�ai su l�honneur de ma naissance,</l>
+	<l id="1726">J�ai mis en vos bont�s toute ma confiance ;</l>
+	<l id="1727">J�ai cru que j�obtiendrais l�effet de mes souhaits,</l>
+	<l id="1728">Si pour ce cher ami je demandais la paix :</l>
+	<l id="1729">Mais le voici qui vient la demander lui-m�me,</l>
+	<l id="1730">Par sa rare vertu, jugez combien je l�aime,</l>
+	<l id="1731">Oubliez votre haine en ce jour solennel,</l>
+	<l id="1732">Et lions nous � lui d�un amour �ternel.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1733">Oui, je le veux aimer, oui mon cher Anaxandre,</l>
+	<l id="1734">Juge-le par ces pleurs que tu me vois r�pandre.</l>
+	<l id="1735">En l�exc�s de la joie, o� je me vois plong�,</l>
+	<l id="1736">Je suis tout seul coupable, il est seul outrag� ;</l>
+	<l id="1737">Et ta s�ur eut raison, puisqu�il l�a tant ch�rie,</l>
+	<l id="1738">De seconder sa haine ; aide moi je te prie,</l>
+	<l id="1739">A regagner le c�ur de ces parfaits amants,</l>
+	<l id="1740">Et pr�venons les tous par nos embrassements.</l>
+</sp>
+</div2>
+<div2 type='scene' n='7'><head>SC�NE VII. Iolas, B�r�nice, Liliane, Carinte, Iarbe, Phalante, etc.</head>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1741">Quel miracle est-ceci ? Quelle grande fortune</l>
+	<l id="1742">Bannit de nos destins la rigueur importune ?</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="1743">Quel heur inesp�r� nous surprend en ces lieux ?</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1744">Rendons mes chers enfants, rendons gr�ces aux Dieux,</l>
+	<l id="1745">Ne nous souvenons plus de nos fautes pass�es,</l>
+	<l id="1746">Et que le seul amour r�gne dans nos pens�es.</l>
+</sp>
+<sp who='PHALANTE'><speaker>PHALANTE, � B�r�nice.</speaker>
+	<l id="1747">Ch�re et parfaite s�ur, je ne m��tonne pas,</l>
+	<l id="1748">D�avoir eu tant d�amour pour tes chastes appas.</l>
+</sp>
+<sp who="B�R�NICE"><speaker>B�R�NICE.</speaker>
+	<l id="1749">Ta Liliane eut tort dans son amiti� pure,</l>
+	<l id="1750">De bl�mer un instinct qu�enseignait la Nature :</l>
+	<l id="1751">Mais ce divin objet, qui soupire pour toi,</l>
+	<l id="1752">Sera-t-il pas en fin le seul prix de ta foi ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1753">Mon c�ur hors ce d�sir n�a rien qui le contente,</l>
+	<l id="1754">Favorisez mon p�re une si douce attente,</l>
+	<l id="1755">Secondez le vouloir de ce parfait ami,</l>
+	<l id="1756">Sans ce bien, votre fils n�est heureux qu�� demi.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1757" part='i'>Que me demandes-tu ?</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1757" part='f'>Cette aimable Princesse,</l>
+	<l id="1758">Pour qui depuis deux ans je soupire sans cesse,</l>
+	<l id="1759">Et dont vous apprendrez la constante amiti�,</l>
+	<l id="1760">Apr�s que de mon feu vous aurez eu piti�.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1761" part='i'>Iolas y consent ?</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1761" part='f'>Oui de toute mon �me.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1762">Que le Ciel de vos c�urs �ternise la flamme,</l>
+	<l id="1763">Je veux une autre gr�ce, Iolante a failly ;</l>
+	<l id="1764">Mon fils noyez son crime au fleuve de l�oubli,</l>
+	<l id="1765">Un jaloux d�sespoir la rendit criminelle,</l>
+	<l id="1766">Mais elle s�en repent, j�ai de l�amour pour elle,</l>
+	<l id="1767">Et si vous m�accordez cette chaste beaut�,</l>
+	<l id="1768">Je vous r�ponds � tous de sa fid�lit�.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1769">Vous lui faites, mon p�re, un honneur qui m��tonne,</l>
+	<l id="1770">Oui, j�excuse sa faute, et je la lui pardonne,</l>
+	<l id="1771">Puisque vous l�ordonnez, je perds le souvenir,</l>
+	<l id="1772" part='i'>Du mal quelle m�a fait.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1772" part='f'>Qu�on la fasse venir.</l>
+</sp>
+<sp who="PHALANTE"><speaker>PHALANTE.</speaker>
+	<l id="1773">Lorsque je suis sorti qu�as-tu fait ma Princesse ?</l>
+</sp>
+<sp who="LILIANE"><speaker>LILIANE.</speaker>
+	<l id="1774">Mon esprit a suivi ta fortune sans cesse,</l>
+	<l id="1775">Mon c�ur � ton �p�e a toujours �t� jointe :</l>
+	<l id="1776">Mais il mourrait de peur et tu n�en avais point.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="1777">J��tais � la faveur de cet arbre cach�e,</l>
+	<l id="1778">De regret et d�ennui sensiblement touch�e,</l>
+	<l id="1779">Mais sur votre parole, et celle d�Iolas,</l>
+	<l id="1780">Confuse je me viens jeter entre vos bras.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1781">Ne crains plus rien, ma s�ur, ton offense est remise,</l>
+	<l id="1782">Tu ne verras ici qu�amour et que franchise.</l>
+</sp>
+<sp who="IOLANTE"><speaker>IOLANTE.</speaker>
+	<l id="1783">Ah mon fr�re, je meurs de t�avoir offens�.</l>
+</sp>
+<sp who="IOLAS"><speaker>IOLAS.</speaker>
+	<l id="1784">De nos esprits contents ton crime est effac�,</l>
+	<l id="1785">Un pardon g�n�ral sign� de part et d�autre,</l>
+	<l id="1786">Abolit pour jamais ton malheur et le n�tre,</l>
+	<l id="1787">Mais apr�s tant d�ennuis et de si longs travaux,</l>
+	<l id="1788">Allons dedans Tarente ensevelir nos maux,</l>
+	<l id="1789">L� nous nous conterons toutes nos aventures,</l>
+	<l id="1790">Et mettrons ordre � tout pour les noces futures.</l>
+</sp>
+<sp who="IARBE"><speaker>IARBE.</speaker>
+	<l id="1791">Allons, et que mon fils, partout victorieux</l>
+	<l id="1792">Fasse conna�tre au Roi, son destin glorieux.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>
